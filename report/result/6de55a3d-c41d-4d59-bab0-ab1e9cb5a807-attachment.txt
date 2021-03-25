@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:32:11]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:32:37]切换成送风模式pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:32:41]非制热模式下点击电加热pass

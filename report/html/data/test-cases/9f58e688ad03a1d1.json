@@ -1,0 +1,126 @@
+{
+  "uid" : "9f58e688ad03a1d1",
+  "name" : "整体展示",
+  "fullName" : "case.test_air_install.TestClass1#test_show1",
+  "historyId" : "36fc4bcb2a8d108607f7651a6e25bce3",
+  "time" : {
+    "start" : 1614651972029,
+    "stop" : 1614651982630,
+    "duration" : 10601
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1614651951472,
+      "stop" : 1614651972028,
+      "duration" : 20556
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1614651920320,
+      "stop" : 1614651920385,
+      "duration" : 65
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7a3ac06b4022ed35",
+      "name" : "log",
+      "source" : "7a3ac06b4022ed35.txt",
+      "type" : "text/plain",
+      "size" : 71
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "login::0",
+    "time" : {
+      "start" : 1614651982631,
+      "stop" : 1614651984048,
+      "duration" : 1417
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "预约安装"
+  }, {
+    "name" : "feature",
+    "value" : "页面显示"
+  }, {
+    "name" : "story",
+    "value" : "展示"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_air_install"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass1"
+  }, {
+    "name" : "host",
+    "value" : "jd-pc-ita001820"
+  }, {
+    "name" : "thread",
+    "value" : "10476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_air_install"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f58e688ad03a1d1.json",
+  "parameterValues" : [ ]
+}

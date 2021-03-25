@@ -1,0 +1,5 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:16:34]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:16:57]个人资料页文本显示pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:16:57]姓名输入按钮pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:17:00]清除姓名按钮pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:17:04]取消按钮pass

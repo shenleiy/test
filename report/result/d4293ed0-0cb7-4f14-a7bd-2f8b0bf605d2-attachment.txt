@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:21:50]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:22:16]点击账号安全pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:22:16]【内部的修改密码、账号注销、手机号更改涉及短信验证，仍保持手动黑盒测试】

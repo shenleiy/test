@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:01:15]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:01:38]个人资料页文本显示pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:01:43]出生日期点击确定pass

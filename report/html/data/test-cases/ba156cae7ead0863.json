@@ -1,0 +1,126 @@
+{
+  "uid" : "ba156cae7ead0863",
+  "name" : "关机状态下点击定时功能",
+  "fullName" : "case.test_virtual.TestClass#test19",
+  "historyId" : "79b2c1d5ef9fdd0154bebb04bb4d37f0",
+  "time" : {
+    "start" : 1614657398044,
+    "stop" : 1614657407332,
+    "duration" : 9288
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test",
+    "time" : {
+      "start" : 1614657380131,
+      "stop" : 1614657398043,
+      "duration" : 17912
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1614651920320,
+      "stop" : 1614651920385,
+      "duration" : 65
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3ca8a9918301b237",
+      "name" : "log",
+      "source" : "3ca8a9918301b237.txt",
+      "type" : "text/plain",
+      "size" : 235
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test::0",
+    "time" : {
+      "start" : 1614657407335,
+      "stop" : 1614657408806,
+      "duration" : 1471
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "高阶功能"
+  }, {
+    "name" : "epic",
+    "value" : "设备列表页"
+  }, {
+    "name" : "feature",
+    "value" : "虚拟体验"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_virtual"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "jd-pc-ita001820"
+  }, {
+    "name" : "thread",
+    "value" : "10476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_virtual"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba156cae7ead0863.json",
+  "parameterValues" : [ ]
+}

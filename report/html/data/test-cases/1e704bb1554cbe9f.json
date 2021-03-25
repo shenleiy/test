@@ -1,0 +1,126 @@
+{
+  "uid" : "1e704bb1554cbe9f",
+  "name" : "点击官网按钮，切换到奥克斯空调官网页面测试",
+  "fullName" : "case.test_setting.TestClass7#test3",
+  "historyId" : "9aaac9495fecf394c1a642ad57e9eab5",
+  "time" : {
+    "start" : 1614656705355,
+    "stop" : 1614656713141,
+    "duration" : 7786
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1614651920320,
+      "stop" : 1614651920385,
+      "duration" : 65
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "test",
+    "time" : {
+      "start" : 1614656686438,
+      "stop" : 1614656705354,
+      "duration" : 18916
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "66c16b1c2484ff45",
+      "name" : "log",
+      "source" : "66c16b1c2484ff45.txt",
+      "type" : "text/plain",
+      "size" : 147
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test::0",
+    "time" : {
+      "start" : 1614656713143,
+      "stop" : 1614656714973,
+      "duration" : 1830
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "设置页"
+  }, {
+    "name" : "feature",
+    "value" : "关于奥云家"
+  }, {
+    "name" : "story",
+    "value" : "官网按钮"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_setting"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass7"
+  }, {
+    "name" : "host",
+    "value" : "jd-pc-ita001820"
+  }, {
+    "name" : "thread",
+    "value" : "10476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_setting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e704bb1554cbe9f.json",
+  "parameterValues" : [ ]
+}

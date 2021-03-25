@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:23:36]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:24:07]切换成深色模式pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:24:15]切换成普通模式pass

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:19:49]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:20:12]进入新增场景页pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:20:15]无设备状态-点击位置触发按钮pass

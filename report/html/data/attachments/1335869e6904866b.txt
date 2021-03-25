@@ -1,0 +1,4 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:12:48]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:13:11]个人资料页文本显示pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:13:11]昵称输入按钮pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:13:13]未修改点击确认pass

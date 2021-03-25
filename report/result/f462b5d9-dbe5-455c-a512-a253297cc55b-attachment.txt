@@ -1,0 +1,4 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:35:43]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:36:09]进入意见反馈页面pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:36:12]反馈内容字数限制pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:36:20]提交意见反馈pass

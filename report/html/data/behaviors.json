@@ -1,0 +1,3625 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "售后服务",
+    "children" : [ {
+      "name" : "售后服务列表",
+      "children" : [ {
+        "name" : "列表页",
+        "children" : [ {
+          "name" : "进入页面",
+          "uid" : "f3e03dcf6808f4e1",
+          "parentUid" : "776976a6793746facb84c34a4d0b9461",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614651920319,
+            "stop" : 1614651920319,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "进入报装页面",
+          "uid" : "e987d2fc27d202a4",
+          "parentUid" : "776976a6793746facb84c34a4d0b9461",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614651951281,
+            "stop" : 1614651951281,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "进入报修页面",
+          "uid" : "cbc7f2ac6bc67cf9",
+          "parentUid" : "776976a6793746facb84c34a4d0b9461",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614651951323,
+            "stop" : 1614651951323,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "进入工单查询页面",
+          "uid" : "eb923c306db5a163",
+          "parentUid" : "776976a6793746facb84c34a4d0b9461",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614651951381,
+            "stop" : 1614651951381,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "进入服务声明页面",
+          "uid" : "69883c06dcfc2fe3",
+          "parentUid" : "776976a6793746facb84c34a4d0b9461",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614651951426,
+            "stop" : 1614651951426,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "776976a6793746facb84c34a4d0b9461"
+      } ],
+      "uid" : "35bc2cd6e648afcb381c3f9fb31d4470"
+    } ],
+    "uid" : "40b697aa73eec2bd3044fff972ae23bf"
+  }, {
+    "name" : "预约安装",
+    "children" : [ {
+      "name" : "页面显示",
+      "children" : [ {
+        "name" : "展示",
+        "children" : [ {
+          "name" : "整体展示",
+          "uid" : "9f58e688ad03a1d1",
+          "parentUid" : "8abaa7dfd7899df555e66fe4aaa4bac4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614651972029,
+            "stop" : 1614651982630,
+            "duration" : 10601
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8abaa7dfd7899df555e66fe4aaa4bac4"
+      } ],
+      "uid" : "c1e92c0b0861e5d0aa21e9dfd1bf6264"
+    }, {
+      "name" : "预约详情",
+      "children" : [ {
+        "name" : "产品线",
+        "children" : [ {
+          "name" : "产品线选项展示",
+          "uid" : "6c93dbc16a2f7c4d",
+          "parentUid" : "3094f4784ec30a5bc7835a8b2a663736",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652004333,
+            "stop" : 1614652011492,
+            "duration" : 7159
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "产品线选择",
+          "uid" : "5c10b9632c361a38",
+          "parentUid" : "3094f4784ec30a5bc7835a8b2a663736",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652011497,
+            "stop" : 1614652020206,
+            "duration" : 8709
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3094f4784ec30a5bc7835a8b2a663736"
+      }, {
+        "name" : "购买日期",
+        "children" : [ {
+          "name" : "购买日期选择",
+          "uid" : "b0f66dbf57adff5c",
+          "parentUid" : "54c001409ecd5e3c91361b986ee3b798",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652020212,
+            "stop" : 1614652023632,
+            "duration" : 3420
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "54c001409ecd5e3c91361b986ee3b798"
+      }, {
+        "name" : "物流状态",
+        "children" : [ {
+          "name" : "物流状态选项展示",
+          "uid" : "9e567a37ccc06f99",
+          "parentUid" : "f41a54e4a421dc6280fff586c92f5476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652023636,
+            "stop" : 1614652028415,
+            "duration" : 4779
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "物流状态选择",
+          "uid" : "f6ff65fa454c6859",
+          "parentUid" : "f41a54e4a421dc6280fff586c92f5476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652028422,
+            "stop" : 1614652032076,
+            "duration" : 3654
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f41a54e4a421dc6280fff586c92f5476"
+      }, {
+        "name" : "预约日期",
+        "children" : [ {
+          "name" : "预约日期选择",
+          "uid" : "bc85e1b088d6700",
+          "parentUid" : "8bb9a0e24069f918d6cdb9d9365619e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652032079,
+            "stop" : 1614652034493,
+            "duration" : 2414
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8bb9a0e24069f918d6cdb9d9365619e1"
+      } ],
+      "uid" : "0c51d071b6fbbd7e36c4bcfc0dbd7281"
+    }, {
+      "name" : "提交判断",
+      "children" : [ {
+        "name" : "数据不全",
+        "children" : [ {
+          "name" : "产品线未填",
+          "uid" : "443bdbb358b9c8e3",
+          "parentUid" : "6411ae777729bb6cdb2d0660082fc825",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652054962,
+            "stop" : 1614652060488,
+            "duration" : 5526
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "单位类型未选择",
+          "uid" : "d1a86918f9b2fd3a",
+          "parentUid" : "6411ae777729bb6cdb2d0660082fc825",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652081238,
+            "stop" : 1614652094728,
+            "duration" : 13490
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "购买日期未选择",
+          "uid" : "14bbb4e49d98512b",
+          "parentUid" : "6411ae777729bb6cdb2d0660082fc825",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652116006,
+            "stop" : 1614652130423,
+            "duration" : 14417
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6411ae777729bb6cdb2d0660082fc825"
+      }, {
+        "name" : "正确提交",
+        "children" : [ {
+          "name" : "正确提交",
+          "uid" : "cd6af9699518ebc1",
+          "parentUid" : "4665707e038b49252c9a6a9079ae682c",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1614652131759,
+            "stop" : 1614652131759,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4665707e038b49252c9a6a9079ae682c"
+      } ],
+      "uid" : "755e238fcf9151f01677749de58f800d"
+    }, {
+      "name" : "添加联系人",
+      "children" : [ {
+        "name" : "添加联系人",
+        "children" : [ {
+          "name" : "进入页面",
+          "uid" : "c62c0a450d9c5293",
+          "parentUid" : "5126a539ba41a3365497695189ce732c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652229221,
+            "stop" : 1614652243543,
+            "duration" : 14322
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "页面展示",
+          "uid" : "4ba9dda29a7f4d73",
+          "parentUid" : "5126a539ba41a3365497695189ce732c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652243549,
+            "stop" : 1614652245090,
+            "duration" : 1541
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5126a539ba41a3365497695189ce732c"
+      }, {
+        "name" : "提交",
+        "children" : [ {
+          "name" : "提交按钮判断",
+          "uid" : "b8aa54b58b3e5a40",
+          "parentUid" : "87d3d5357639816c60208d7bba272702",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652265965,
+            "stop" : 1614652298815,
+            "duration" : 32850
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "正确填写保存",
+          "uid" : "8b47ef4c915bdbdb",
+          "parentUid" : "87d3d5357639816c60208d7bba272702",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652320016,
+            "stop" : 1614652352103,
+            "duration" : 32087
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "手机号非纯数字",
+          "uid" : "1b1d01e77af27ba0",
+          "parentUid" : "87d3d5357639816c60208d7bba272702",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652372968,
+            "stop" : 1614652402021,
+            "duration" : 29053
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "手机号未满11位",
+          "uid" : "a5a172370bb42a3f",
+          "parentUid" : "87d3d5357639816c60208d7bba272702",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652423092,
+            "stop" : 1614652451657,
+            "duration" : 28565
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "联系人字数过长",
+          "uid" : "1a79e4e07700818e",
+          "parentUid" : "87d3d5357639816c60208d7bba272702",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652472996,
+            "stop" : 1614652503938,
+            "duration" : 30942
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设为默认地址",
+          "uid" : "3b5608bebc63326c",
+          "parentUid" : "87d3d5357639816c60208d7bba272702",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652524093,
+            "stop" : 1614652555253,
+            "duration" : 31160
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "87d3d5357639816c60208d7bba272702"
+      }, {
+        "name" : "编辑",
+        "children" : [ {
+          "name" : "修改姓名手机号",
+          "uid" : "a0d5c8b22616043f",
+          "parentUid" : "6b9fd648316a62d9c995a0643ef2a8e8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652575417,
+            "stop" : 1614652590089,
+            "duration" : 14672
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6b9fd648316a62d9c995a0643ef2a8e8"
+      }, {
+        "name" : "删除",
+        "children" : [ {
+          "name" : "删除联系人-取消",
+          "uid" : "716cc9354e26e434",
+          "parentUid" : "aecd403f59d660acbe205fcdb1d3268b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652610869,
+            "stop" : 1614652622727,
+            "duration" : 11858
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "删除联系人-确认",
+          "uid" : "891c8007efab6f38",
+          "parentUid" : "aecd403f59d660acbe205fcdb1d3268b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652622731,
+            "stop" : 1614652627449,
+            "duration" : 4718
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "aecd403f59d660acbe205fcdb1d3268b"
+      } ],
+      "uid" : "13b718330cca2f9a57fe1f86c8d1d0b9"
+    } ],
+    "uid" : "76024f08971856e5a731aee682bf48e8"
+  }, {
+    "name" : "预约维修",
+    "children" : [ {
+      "name" : "页面显示",
+      "children" : [ {
+        "name" : "展示",
+        "children" : [ {
+          "name" : "整体展示",
+          "uid" : "40c7c60724f1bfe2",
+          "parentUid" : "5757fe7a1a1e46888ccbee86fe6ac737",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652151580,
+            "stop" : 1614652160736,
+            "duration" : 9156
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5757fe7a1a1e46888ccbee86fe6ac737"
+      } ],
+      "uid" : "12e17ad5ebf3b16616a441dff00b9263"
+    }, {
+      "name" : "预约详情",
+      "children" : [ {
+        "name" : "产品线",
+        "children" : [ {
+          "name" : "产品线选项展示",
+          "uid" : "a7020c430b570d63",
+          "parentUid" : "fd8e4aff67629620bce7c5cec9c09676",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652181861,
+            "stop" : 1614652193762,
+            "duration" : 11901
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "产品线选择",
+          "uid" : "b52eefdd1c17e266",
+          "parentUid" : "fd8e4aff67629620bce7c5cec9c09676",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652193766,
+            "stop" : 1614652202509,
+            "duration" : 8743
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fd8e4aff67629620bce7c5cec9c09676"
+      }, {
+        "name" : "购买日期",
+        "children" : [ {
+          "name" : "购买日期选择",
+          "uid" : "3c244180883d6",
+          "parentUid" : "490eebfcb2dfa7ba36cd454f70b61e85",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652202512,
+            "stop" : 1614652205789,
+            "duration" : 3277
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "490eebfcb2dfa7ba36cd454f70b61e85"
+      }, {
+        "name" : "预约日期",
+        "children" : [ {
+          "name" : "预约日期选择",
+          "uid" : "e9c335fd413c8e5",
+          "parentUid" : "3d0121e5c0d6ab8386789fbdf1b4cbdb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652205792,
+            "stop" : 1614652208735,
+            "duration" : 2943
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3d0121e5c0d6ab8386789fbdf1b4cbdb"
+      } ],
+      "uid" : "a90b2e065d13b684aa470848513b4f39"
+    } ],
+    "uid" : "b113e8958beb99e849c25d583e788534"
+  }, {
+    "name" : "引导页",
+    "children" : [ {
+      "name" : "隐私声明",
+      "children" : [ {
+        "name" : "不同意按钮",
+        "children" : [ {
+          "name" : "点击不同意隐私声明按钮测试",
+          "uid" : "90134a8915a505d6",
+          "parentUid" : "82c1520ddaab0611e13acb9f420b3f8f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652644688,
+            "stop" : 1614652646007,
+            "duration" : 1319
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "82c1520ddaab0611e13acb9f420b3f8f"
+      }, {
+        "name" : "同意按钮",
+        "children" : [ {
+          "name" : "点击同意隐私声明按钮测试",
+          "uid" : "db63b5eff3d9daaa",
+          "parentUid" : "0d13fe59649c46dc5660288f383284de",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614652663268,
+            "stop" : 1614652684270,
+            "duration" : 21002
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0d13fe59649c46dc5660288f383284de"
+      } ],
+      "uid" : "34d4d4b8e3f799b214b5d26af31b3d84"
+    } ],
+    "uid" : "be88c53ab35a0364f1defd051b4d7555"
+  }, {
+    "name" : "设备列表页",
+    "children" : [ {
+      "name" : "设备列表页--未登陆状态",
+      "children" : [ {
+        "name" : "未登录按钮",
+        "children" : [ {
+          "name" : "点击未登录按钮测试",
+          "uid" : "c6e5c7068a6257eb",
+          "parentUid" : "aee86c921c450dea1c6acb2930a51806",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614652685671,
+            "stop" : 1614652685671,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "aee86c921c450dea1c6acb2930a51806"
+      }, {
+        "name" : "场景控制快捷入口按钮",
+        "children" : [ {
+          "name" : "点击场景控制快捷入口按钮测试",
+          "uid" : "5715c641f16c4d25",
+          "parentUid" : "ba23e98f1870b5cdc799fa94a196b277",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614652749080,
+            "stop" : 1614652759585,
+            "duration" : 10505
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ba23e98f1870b5cdc799fa94a196b277"
+      }, {
+        "name" : "虚拟体验按钮",
+        "children" : [ {
+          "name" : "点击虚拟体验按钮测试",
+          "uid" : "f347420e49da8edc",
+          "parentUid" : "9c4696922212db99378910c4c7102026",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652782501,
+            "stop" : 1614652788873,
+            "duration" : 6372
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9c4696922212db99378910c4c7102026"
+      }, {
+        "name" : "添加设备按钮",
+        "children" : [ {
+          "name" : "点击添加设备按钮测试",
+          "uid" : "b1d6be38c4c76b70",
+          "parentUid" : "1145868f26eb69ec87da6860c0984420",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614652812337,
+            "stop" : 1614652822880,
+            "duration" : 10543
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1145868f26eb69ec87da6860c0984420"
+      }, {
+        "name" : "右上角+按钮",
+        "children" : [ {
+          "name" : "点击右上角+按钮测试",
+          "uid" : "1ad4b9f861102b8d",
+          "parentUid" : "8f10a10e140563a6d0eb97ba420c7e38",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614652845407,
+            "stop" : 1614652856159,
+            "duration" : 10752
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8f10a10e140563a6d0eb97ba420c7e38"
+      } ],
+      "uid" : "2f6b87bd68a62efb9c172edd6a8b754c"
+    }, {
+      "name" : "虚拟体验",
+      "children" : [ {
+        "name" : "虚拟体验UI",
+        "children" : [ {
+          "name" : "虚拟体验UI显示文本测试",
+          "uid" : "ede874037880ab8b",
+          "parentUid" : "09be8dcc4f7b3395147d3cdfcd836bc0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656849883,
+            "stop" : 1614656857474,
+            "duration" : 7591
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "09be8dcc4f7b3395147d3cdfcd836bc0"
+      }, {
+        "name" : "制冷模式",
+        "children" : [ {
+          "name" : "制冷模式下点击舒风",
+          "uid" : "629a09e83efe5e43",
+          "parentUid" : "954a5000142b4a8cf225bec9cc3465a9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656876414,
+            "stop" : 1614656881522,
+            "duration" : 5108
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "制冷模式下点击电加热",
+          "uid" : "a2c9c684fa21efaa",
+          "parentUid" : "954a5000142b4a8cf225bec9cc3465a9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656900505,
+            "stop" : 1614656906410,
+            "duration" : 5905
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "954a5000142b4a8cf225bec9cc3465a9"
+      }, {
+        "name" : "制热模式",
+        "children" : [ {
+          "name" : "制热模式下点击ECO",
+          "uid" : "473740ff6cd14021",
+          "parentUid" : "2279d43efc3cc11dd02045400e698907",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614656925050,
+            "stop" : 1614656935966,
+            "duration" : 10916
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "制热模式下点击舒风",
+          "uid" : "337c9fa4c0ea921",
+          "parentUid" : "2279d43efc3cc11dd02045400e698907",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656955182,
+            "stop" : 1614656964745,
+            "duration" : 9563
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2279d43efc3cc11dd02045400e698907"
+      }, {
+        "name" : "除湿模式",
+        "children" : [ {
+          "name" : "除湿模式下点击ECO",
+          "uid" : "abb7a946fef11f57",
+          "parentUid" : "10d819e3ad5a819d9db2bf3c8a2bdfa0",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614656983120,
+            "stop" : 1614656994317,
+            "duration" : 11197
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "除湿模式下点击舒风",
+          "uid" : "570092b5ba186128",
+          "parentUid" : "10d819e3ad5a819d9db2bf3c8a2bdfa0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657012860,
+            "stop" : 1614657022360,
+            "duration" : 9500
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "除湿模式下点击电加热",
+          "uid" : "21e4e607f3e4dd70",
+          "parentUid" : "10d819e3ad5a819d9db2bf3c8a2bdfa0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657040797,
+            "stop" : 1614657050640,
+            "duration" : 9843
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "10d819e3ad5a819d9db2bf3c8a2bdfa0"
+      }, {
+        "name" : "送风模式",
+        "children" : [ {
+          "name" : "送风模式下点击ECO",
+          "uid" : "bf5ceade62524150",
+          "parentUid" : "f358f193b6d1b089e503686d51395883",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614657069696,
+            "stop" : 1614657084711,
+            "duration" : 15015
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "送风模式下点击舒风",
+          "uid" : "2ab5474150ac8681",
+          "parentUid" : "f358f193b6d1b089e503686d51395883",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657103193,
+            "stop" : 1614657115101,
+            "duration" : 11908
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "送风模式下点击电加热",
+          "uid" : "f4134fc519683d7d",
+          "parentUid" : "f358f193b6d1b089e503686d51395883",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657133688,
+            "stop" : 1614657148249,
+            "duration" : 14561
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "送风模式下点击电加热",
+          "uid" : "744a7e437ae6a380",
+          "parentUid" : "f358f193b6d1b089e503686d51395883",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657166725,
+            "stop" : 1614657180286,
+            "duration" : 13561
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f358f193b6d1b089e503686d51395883"
+      }, {
+        "name" : "自动模式",
+        "children" : [ {
+          "name" : "自动模式下点击ECO",
+          "uid" : "61c1fa56fe0a2ffd",
+          "parentUid" : "af36557f1217f09ed4e5f3c1f22acff0",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614657199144,
+            "stop" : 1614657211355,
+            "duration" : 12211
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "自动模式下点击舒风",
+          "uid" : "32b726f5f74f88e0",
+          "parentUid" : "af36557f1217f09ed4e5f3c1f22acff0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657229948,
+            "stop" : 1614657243612,
+            "duration" : 13664
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "自动模式下点击电加热",
+          "uid" : "5c5ed531ad50bfd6",
+          "parentUid" : "af36557f1217f09ed4e5f3c1f22acff0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657262500,
+            "stop" : 1614657274440,
+            "duration" : 11940
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "af36557f1217f09ed4e5f3c1f22acff0"
+      }, {
+        "name" : "高阶功能",
+        "children" : [ {
+          "name" : "开机状态下点击睡眠diy功能",
+          "uid" : "1bf1c2e68de6d570",
+          "parentUid" : "5cd3f3b01e7ea68a9f79da13fbb7452c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614657292920,
+            "stop" : 1614657321420,
+            "duration" : 28500
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "开机状态下点击定时功能",
+          "uid" : "875e73efc47774b2",
+          "parentUid" : "5cd3f3b01e7ea68a9f79da13fbb7452c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657340788,
+            "stop" : 1614657350077,
+            "duration" : 9289
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "开机状态下点击设备运行日志功能",
+          "uid" : "3c3748662219d5a4",
+          "parentUid" : "5cd3f3b01e7ea68a9f79da13fbb7452c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657368757,
+            "stop" : 1614657378704,
+            "duration" : 9947
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "关机状态下点击定时功能",
+          "uid" : "ba156cae7ead0863",
+          "parentUid" : "5cd3f3b01e7ea68a9f79da13fbb7452c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657398044,
+            "stop" : 1614657407332,
+            "duration" : 9288
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "关机状态下点击设备运行日志功能",
+          "uid" : "6b958549d46c094c",
+          "parentUid" : "5cd3f3b01e7ea68a9f79da13fbb7452c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614657425858,
+            "stop" : 1614657435344,
+            "duration" : 9486
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5cd3f3b01e7ea68a9f79da13fbb7452c"
+      }, {
+        "name" : "童锁功能",
+        "children" : [ {
+          "name" : "开启童锁后随即点击任意按钮",
+          "uid" : "988018887f221dcf",
+          "parentUid" : "380368f9bd5f52541216d7c351980fd4",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614657454576,
+            "stop" : 1614657503716,
+            "duration" : 49140
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "380368f9bd5f52541216d7c351980fd4"
+      } ],
+      "uid" : "8285c5010d9dced347ad616461c66f5a"
+    } ],
+    "uid" : "3dca69b38dfbc4e8d434962b0b8d83fd"
+  }, {
+    "name" : "家庭列表页",
+    "children" : [ {
+      "name" : "返回",
+      "children" : [ {
+        "name" : "返回按钮",
+        "children" : [ {
+          "name" : "点击返回键，页面跳转到设备页测试",
+          "uid" : "897e1a75dcd697aa",
+          "parentUid" : "d279fe56994252306371969c623c0592",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614652880909,
+            "stop" : 1614652886284,
+            "duration" : 5375
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d279fe56994252306371969c623c0592"
+      } ],
+      "uid" : "cc7156b2619be4f0081aa51a2c65cb06"
+    }, {
+      "name" : "家庭名称",
+      "children" : [ {
+        "name" : "家庭名称为空",
+        "children" : [ {
+          "name" : "未输入家庭名称点击确认测试",
+          "uid" : "8ecf0f6620dbbb86",
+          "parentUid" : "fbe1533fab99ed6b1df1b06d621b291c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652904333,
+            "stop" : 1614652911071,
+            "duration" : 6738
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "未输入家庭名称点击取消测试",
+          "uid" : "c430f598568b8050",
+          "parentUid" : "fbe1533fab99ed6b1df1b06d621b291c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652930199,
+            "stop" : 1614652936381,
+            "duration" : 6182
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fbe1533fab99ed6b1df1b06d621b291c"
+      }, {
+        "name" : "1-20位家庭名称",
+        "children" : [ {
+          "name" : "1-20位家庭名称点击确认测试",
+          "uid" : "10fe0467ad3f33c",
+          "parentUid" : "6a68888bd99aaed420190f7834ad335b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652954893,
+            "stop" : 1614652965631,
+            "duration" : 10738
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "1-20位家庭名称点击取消测试",
+          "uid" : "9f7df260ce4773eb",
+          "parentUid" : "6a68888bd99aaed420190f7834ad335b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614652983492,
+            "stop" : 1614652992414,
+            "duration" : 8922
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6a68888bd99aaed420190f7834ad335b"
+      }, {
+        "name" : "超20位家庭名称",
+        "children" : [ {
+          "name" : "输入超20位家庭名称测试",
+          "uid" : "9df730ddcd3ae969",
+          "parentUid" : "13e055277dc332fc1e26fa9ed1699412",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653010552,
+            "stop" : 1614653017505,
+            "duration" : 6953
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "13e055277dc332fc1e26fa9ed1699412"
+      }, {
+        "name" : "清除家庭名称",
+        "children" : [ {
+          "name" : "输入家庭名称点击清除测试",
+          "uid" : "7244153cbc0b22a4",
+          "parentUid" : "911db969b80435d8176e81f2f1230739",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653036315,
+            "stop" : 1614653045551,
+            "duration" : 9236
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "911db969b80435d8176e81f2f1230739"
+      } ],
+      "uid" : "4fb24547a586fc3360a4688335849068"
+    }, {
+      "name" : "选择家庭",
+      "children" : [ {
+        "name" : "页面跳转",
+        "children" : [ {
+          "name" : "点击家庭名称，进入家庭设置页测试",
+          "uid" : "abbcd8a9f2f74ec9",
+          "parentUid" : "a51d41d33244a2ed499e6b74467a7ad3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653063411,
+            "stop" : 1614653067175,
+            "duration" : 3764
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "勾选家庭，进入设备列表页测试",
+          "uid" : "57ddf31466975f46",
+          "parentUid" : "a51d41d33244a2ed499e6b74467a7ad3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653085209,
+            "stop" : 1614653091223,
+            "duration" : 6014
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a51d41d33244a2ed499e6b74467a7ad3"
+      } ],
+      "uid" : "8482c5bfdcb8e126c307752067a69453"
+    } ],
+    "uid" : "45fbc38831011f6ad097b5cb6800bb4d"
+  }, {
+    "name" : "帮助与反馈",
+    "children" : [ {
+      "name" : "帮助反馈列表",
+      "children" : [ {
+        "name" : "列表项核对",
+        "children" : [ {
+          "name" : "帮助项展示",
+          "uid" : "2cafc601d6101fef",
+          "parentUid" : "ee8d467fb7c658f64e4b515dcc3e6c29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653113571,
+            "stop" : 1614653118997,
+            "duration" : 5426
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "账号问题展示",
+          "uid" : "cb04f0247fcf648e",
+          "parentUid" : "ee8d467fb7c658f64e4b515dcc3e6c29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653119004,
+            "stop" : 1614653127918,
+            "duration" : 8914
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设备添加展示",
+          "uid" : "e4384b9e124f6728",
+          "parentUid" : "ee8d467fb7c658f64e4b515dcc3e6c29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653127926,
+            "stop" : 1614653132075,
+            "duration" : 4149
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设备管理展示",
+          "uid" : "4068f8479284ef81",
+          "parentUid" : "ee8d467fb7c658f64e4b515dcc3e6c29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653132079,
+            "stop" : 1614653137138,
+            "duration" : 5059
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "功能异常展示",
+          "uid" : "4c15bbdaddd9d761",
+          "parentUid" : "ee8d467fb7c658f64e4b515dcc3e6c29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653137141,
+            "stop" : 1614653144478,
+            "duration" : 7337
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "场景模式展示",
+          "uid" : "736b0f4a0d0e289e",
+          "parentUid" : "ee8d467fb7c658f64e4b515dcc3e6c29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653144485,
+            "stop" : 1614653147689,
+            "duration" : 3204
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "其他问题展示",
+          "uid" : "1784e17b7c0ad0d8",
+          "parentUid" : "ee8d467fb7c658f64e4b515dcc3e6c29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653147696,
+            "stop" : 1614653151232,
+            "duration" : 3536
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ee8d467fb7c658f64e4b515dcc3e6c29"
+      } ],
+      "uid" : "021049929a127dd1ee4a78d46726c05f"
+    }, {
+      "name" : "帮助具体详情",
+      "children" : [ {
+        "name" : "账号问题详情",
+        "children" : [ {
+          "name" : "账号注册详情",
+          "uid" : "189c7204707f5ac2",
+          "parentUid" : "e9a80e41ad24fbb956584054666b68a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653173310,
+            "stop" : 1614653181716,
+            "duration" : 8406
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "账号登录详情",
+          "uid" : "6c316126af4730e7",
+          "parentUid" : "e9a80e41ad24fbb956584054666b68a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653181744,
+            "stop" : 1614653187383,
+            "duration" : 5639
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "忘记密码详情",
+          "uid" : "941ec3267b8bc97",
+          "parentUid" : "e9a80e41ad24fbb956584054666b68a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653187388,
+            "stop" : 1614653191847,
+            "duration" : 4459
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "第三方账号登录详情",
+          "uid" : "df0ba1a1a6c01c7e",
+          "parentUid" : "e9a80e41ad24fbb956584054666b68a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653191851,
+            "stop" : 1614653197297,
+            "duration" : 5446
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "修改个人信息详情",
+          "uid" : "c8acfb0eb78a3fcc",
+          "parentUid" : "e9a80e41ad24fbb956584054666b68a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653197307,
+            "stop" : 1614653203272,
+            "duration" : 5965
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "修改账号密码详情",
+          "uid" : "73bb44ecf3ff0c0a",
+          "parentUid" : "e9a80e41ad24fbb956584054666b68a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653203279,
+            "stop" : 1614653209286,
+            "duration" : 6007
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e9a80e41ad24fbb956584054666b68a3"
+      }, {
+        "name" : "设备添加详情",
+        "children" : [ {
+          "name" : "添加空调设备详情",
+          "uid" : "72f4fabbc1957a9b",
+          "parentUid" : "e7b52fbf8d516761103cd9976d2a1f97",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653232540,
+            "stop" : 1614653240278,
+            "duration" : 7738
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "添加空调设备失败详情",
+          "uid" : "7fcf036f934ac61b",
+          "parentUid" : "e7b52fbf8d516761103cd9976d2a1f97",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653240286,
+            "stop" : 1614653245357,
+            "duration" : 5071
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "空调设备复位不成功详情",
+          "uid" : "ff03de86f699f2d7",
+          "parentUid" : "e7b52fbf8d516761103cd9976d2a1f97",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653245363,
+            "stop" : 1614653251001,
+            "duration" : 5638
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e7b52fbf8d516761103cd9976d2a1f97"
+      }, {
+        "name" : "设备管理详情",
+        "children" : [ {
+          "name" : "修改空调设备名称详情",
+          "uid" : "fcc8f9850178de5e",
+          "parentUid" : "f931ba2ad695ad74bb9237db2d938c19",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653273347,
+            "stop" : 1614653281500,
+            "duration" : 8153
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "空调设备删除详情",
+          "uid" : "79744809c19b28a2",
+          "parentUid" : "f931ba2ad695ad74bb9237db2d938c19",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653281502,
+            "stop" : 1614653286760,
+            "duration" : 5258
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "如何设置睡眠DIY详情",
+          "uid" : "691ce9eb597e4683",
+          "parentUid" : "f931ba2ad695ad74bb9237db2d938c19",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614653286766,
+            "stop" : 1614653301060,
+            "duration" : 14294
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "如何分享设备详情",
+          "uid" : "fad0b0a6631a8d35",
+          "parentUid" : "f931ba2ad695ad74bb9237db2d938c19",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614653301121,
+            "stop" : 1614653306205,
+            "duration" : 5084
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f931ba2ad695ad74bb9237db2d938c19"
+      }, {
+        "name" : "功能异常详情",
+        "children" : [ {
+          "name" : "空调设备电量功能异常详情",
+          "uid" : "c2f5c16449231c5d",
+          "parentUid" : "6ff1b959d033197c3ac29d4b25a3b476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653330159,
+            "stop" : 1614653338321,
+            "duration" : 8162
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设置定时不执行详情",
+          "uid" : "6237914f8dfdd28",
+          "parentUid" : "6ff1b959d033197c3ac29d4b25a3b476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653338326,
+            "stop" : 1614653343781,
+            "duration" : 5455
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "显示的控制功能与空调型号不对应详情",
+          "uid" : "73156b0a3ec4fab7",
+          "parentUid" : "6ff1b959d033197c3ac29d4b25a3b476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653343789,
+            "stop" : 1614653348627,
+            "duration" : 4838
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设备列表页已经配网的空调设备消失详情",
+          "uid" : "7b1a3fcd9ef6f4f6",
+          "parentUid" : "6ff1b959d033197c3ac29d4b25a3b476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653348634,
+            "stop" : 1614653354105,
+            "duration" : 5471
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设备控制页显示发生故障详情",
+          "uid" : "d12ae2df7c3e0277",
+          "parentUid" : "6ff1b959d033197c3ac29d4b25a3b476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653354111,
+            "stop" : 1614653359914,
+            "duration" : 5803
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6ff1b959d033197c3ac29d4b25a3b476"
+      }, {
+        "name" : "场景模式详情",
+        "children" : [ {
+          "name" : "如何添加场景模式详情",
+          "uid" : "63d95dce1e81f949",
+          "parentUid" : "7717feaa31f19bfaaaa94728c955230c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653383127,
+            "stop" : 1614653390724,
+            "duration" : 7597
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "场景功能设置未执行详情",
+          "uid" : "72e2e687834e7587",
+          "parentUid" : "7717feaa31f19bfaaaa94728c955230c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653390727,
+            "stop" : 1614653396002,
+            "duration" : 5275
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7717feaa31f19bfaaaa94728c955230c"
+      }, {
+        "name" : "其他问题详情",
+        "children" : [ {
+          "name" : "空调报装、报修详情",
+          "uid" : "9d6daf55d9622b89",
+          "parentUid" : "6f6cc45113f0d6f8e63d57976637d448",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653418589,
+            "stop" : 1614653426126,
+            "duration" : 7537
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "空调设备离线详情",
+          "uid" : "46bf60568acaa8b0",
+          "parentUid" : "6f6cc45113f0d6f8e63d57976637d448",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653426130,
+            "stop" : 1614653431405,
+            "duration" : 5275
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6f6cc45113f0d6f8e63d57976637d448"
+      } ],
+      "uid" : "583df5dd3bf1dbecfea9006311f774fa"
+    }, {
+      "name" : "意见反馈",
+      "children" : [ {
+        "name" : "进入意见反馈页面",
+        "children" : [ {
+          "name" : "通过意见反馈进入反馈页面测试",
+          "uid" : "ec5b6d5107f8ff60",
+          "parentUid" : "7f2ff4d3db886f6db958fcc623029e8e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653454040,
+            "stop" : 1614653458124,
+            "duration" : 4084
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "通过还没解决问题进入意见反馈测试",
+          "uid" : "2d0653620131d234",
+          "parentUid" : "7f2ff4d3db886f6db958fcc623029e8e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653480661,
+            "stop" : 1614653488214,
+            "duration" : 7553
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7f2ff4d3db886f6db958fcc623029e8e"
+      } ],
+      "uid" : "8250d6f7150e1e58ff9466a126563977"
+    }, {
+      "name" : "反馈页面选项",
+      "children" : [ {
+        "name" : "显示",
+        "children" : [ {
+          "name" : "页面显示",
+          "uid" : "168f29599e74c476",
+          "parentUid" : "4667052e0ff6372c09624bb4e5f85dd9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653510703,
+            "stop" : 1614653517482,
+            "duration" : 6779
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4667052e0ff6372c09624bb4e5f85dd9"
+      }, {
+        "name" : "问题类型",
+        "children" : [ {
+          "name" : "历遍所有问题类型",
+          "uid" : "a43d6dc8b3b2af9a",
+          "parentUid" : "20fab9049f640543ddd208cbe86f5b44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653539528,
+            "stop" : 1614653560347,
+            "duration" : 20819
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "20fab9049f640543ddd208cbe86f5b44"
+      }, {
+        "name" : "提交按钮状态",
+        "children" : [ {
+          "name" : "不可点状态：内容未输入",
+          "uid" : "ea8836c37fc277d1",
+          "parentUid" : "b5ff2e2bee104cccc2ddfe5a1041d22d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653583021,
+            "stop" : 1614653589325,
+            "duration" : 6304
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "可点状态：内容已填写",
+          "uid" : "22d9df5dda842e33",
+          "parentUid" : "b5ff2e2bee104cccc2ddfe5a1041d22d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653589332,
+            "stop" : 1614653593507,
+            "duration" : 4175
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b5ff2e2bee104cccc2ddfe5a1041d22d"
+      }, {
+        "name" : "反馈内容",
+        "children" : [ {
+          "name" : "字数统计",
+          "uid" : "41f0bbdf1705a97f",
+          "parentUid" : "37ecd0409821a5c646059a63b55f42e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653616081,
+            "stop" : 1614653624765,
+            "duration" : 8684
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "字数限制",
+          "uid" : "c5e3ad3fd53af9b1",
+          "parentUid" : "37ecd0409821a5c646059a63b55f42e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653624769,
+            "stop" : 1614653626684,
+            "duration" : 1915
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "37ecd0409821a5c646059a63b55f42e1"
+      }, {
+        "name" : "手机号",
+        "children" : [ {
+          "name" : "输入限制",
+          "uid" : "31e1f98677a891ed",
+          "parentUid" : "bd9d8b9913c04ff90a5a6aa681d7949a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653649151,
+            "stop" : 1614653660386,
+            "duration" : 11235
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "清除手机号",
+          "uid" : "10e2332470693039",
+          "parentUid" : "bd9d8b9913c04ff90a5a6aa681d7949a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653660394,
+            "stop" : 1614653664156,
+            "duration" : 3762
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bd9d8b9913c04ff90a5a6aa681d7949a"
+      } ],
+      "uid" : "5a8a6a7d18f27df08cfe86c66d037ba1"
+    }, {
+      "name" : "提交意见反馈",
+      "children" : [ {
+        "name" : "提交意见反馈",
+        "children" : [ {
+          "name" : "手机号未填",
+          "uid" : "a656e1c5161fd9dd",
+          "parentUid" : "565b9014a4606ae7d9293527642ec519",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653686615,
+            "stop" : 1614653706535,
+            "duration" : 19920
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "内容过长未填",
+          "uid" : "4a268b068c008725",
+          "parentUid" : "565b9014a4606ae7d9293527642ec519",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653730922,
+            "stop" : 1614653744584,
+            "duration" : 13662
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "565b9014a4606ae7d9293527642ec519"
+      }, {
+        "name" : "反馈记录",
+        "children" : [ {
+          "name" : "查看记录(由于有bug该部分内容还未写)",
+          "uid" : "8871de1e0856c15b",
+          "parentUid" : "9edc812d8b9d9e0a507c0fc652c61c76",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653766639,
+            "stop" : 1614653766640,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "再次反馈",
+          "uid" : "dfd1cf4742ffe36",
+          "parentUid" : "9edc812d8b9d9e0a507c0fc652c61c76",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653789871,
+            "stop" : 1614653799070,
+            "duration" : 9199
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9edc812d8b9d9e0a507c0fc652c61c76"
+      } ],
+      "uid" : "58bc1b6a33b7192b03cc018aaafa017c"
+    } ],
+    "uid" : "6f35f034b7fa676df0c3ef1e8b6b1c59"
+  }, {
+    "name" : "产品指南",
+    "children" : [ {
+      "name" : "产品指南列表",
+      "children" : [ {
+        "name" : "列表页",
+        "children" : [ {
+          "name" : "列表显示",
+          "uid" : "ce6d3f75abea388b",
+          "parentUid" : "b42a17bf11bfd2af00bf54104d8e6579",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653820269,
+            "stop" : 1614653823282,
+            "duration" : 3013
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b42a17bf11bfd2af00bf54104d8e6579"
+      }, {
+        "name" : "页面跳转",
+        "children" : [ {
+          "name" : "跳转到电子说明书页",
+          "uid" : "8ffce6a4a1dda984",
+          "parentUid" : "432a5c59384f7f1cf8758534ca78cd2e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653823285,
+            "stop" : 1614653825471,
+            "duration" : 2186
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "跳转到产品使用指南页",
+          "uid" : "18149070e882af48",
+          "parentUid" : "432a5c59384f7f1cf8758534ca78cd2e",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614653825474,
+            "stop" : 1614653835433,
+            "duration" : 9959
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "跳转到拆洗教程页",
+          "uid" : "564d6ef751d08c45",
+          "parentUid" : "432a5c59384f7f1cf8758534ca78cd2e",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614653835487,
+            "stop" : 1614653840791,
+            "duration" : 5304
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "432a5c59384f7f1cf8758534ca78cd2e"
+      } ],
+      "uid" : "fc1ff2c530b284296e473200038c7bf7"
+    }, {
+      "name" : "产品使用知识",
+      "children" : [ {
+        "name" : "查看知识库",
+        "children" : [ {
+          "name" : "查看知识库",
+          "uid" : "80e7dfe0bcb80f8",
+          "parentUid" : "cf3060ef3ffafc7dd8c36db1a7b6535e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654079692,
+            "stop" : 1614654251874,
+            "duration" : 172182
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cf3060ef3ffafc7dd8c36db1a7b6535e"
+      } ],
+      "uid" : "7226c4398f82b863848207129ad7deee"
+    } ],
+    "uid" : "778f561dc9f50c23aa3c71550eb23969"
+  }, {
+    "name" : "电子说明书",
+    "children" : [ {
+      "name" : "电子说明书",
+      "children" : [ {
+        "name" : "查找电子说明书",
+        "children" : [ {
+          "name" : "通过带W的型号查询说明书",
+          "uid" : "6ed849880218d885",
+          "parentUid" : "cc3e80282218b6db0c241975c119bd7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653862400,
+            "stop" : 1614653869170,
+            "duration" : 6770
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "查看电子说明书",
+          "uid" : "ebcd5f1be52c649b",
+          "parentUid" : "cc3e80282218b6db0c241975c119bd7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653869176,
+            "stop" : 1614653885308,
+            "duration" : 16132
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "通过不带W的型号查询说明书",
+          "uid" : "8e7699adf7b391f8",
+          "parentUid" : "cc3e80282218b6db0c241975c119bd7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653906564,
+            "stop" : 1614653911981,
+            "duration" : 5417
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "查看电子说明书",
+          "uid" : "1c10ab1794d92760",
+          "parentUid" : "cc3e80282218b6db0c241975c119bd7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653911984,
+            "stop" : 1614653927603,
+            "duration" : 15619
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "错误条码",
+          "uid" : "785f72282897bc97",
+          "parentUid" : "cc3e80282218b6db0c241975c119bd7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614653948971,
+            "stop" : 1614653954198,
+            "duration" : 5227
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "扫码查询",
+          "uid" : "889149059c24feaf",
+          "parentUid" : "cc3e80282218b6db0c241975c119bd7d",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614653976052,
+            "stop" : 1614653985281,
+            "duration" : 9229
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cc3e80282218b6db0c241975c119bd7d"
+      } ],
+      "uid" : "e220d119aad1968bc2a92f19d538c35d"
+    }, {
+      "name" : "历史查看",
+      "children" : [ {
+        "name" : "历史记录查看",
+        "children" : [ {
+          "name" : "通过历史记录查看",
+          "uid" : "2036a2d094d7c584",
+          "parentUid" : "e912571e7d51d4abde6cb63b813012d2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654006371,
+            "stop" : 1614654020137,
+            "duration" : 13766
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e912571e7d51d4abde6cb63b813012d2"
+      }, {
+        "name" : "删除历史记录",
+        "children" : [ {
+          "name" : "查询是否有历史记录，如无，则新生成一条",
+          "uid" : "7e447acde367ba4",
+          "parentUid" : "28f569e2a693257abc10990f8be7d968",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654043058,
+            "stop" : 1614654050733,
+            "duration" : 7675
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "点击删除",
+          "uid" : "5f2a22022bf11fd0",
+          "parentUid" : "28f569e2a693257abc10990f8be7d968",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654050740,
+            "stop" : 1614654055866,
+            "duration" : 5126
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "确认删除",
+          "uid" : "4dcc31dd5ae66c83",
+          "parentUid" : "28f569e2a693257abc10990f8be7d968",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654055869,
+            "stop" : 1614654058366,
+            "duration" : 2497
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "28f569e2a693257abc10990f8be7d968"
+      } ],
+      "uid" : "40b48f6874c7276693dd0d13143091b8"
+    } ],
+    "uid" : "4f375b428d93f41db1ee97e98ea5062f"
+  }, {
+    "name" : "登录页",
+    "children" : [ {
+      "name" : "手机号登录",
+      "children" : [ {
+        "name" : "验证码登录按钮",
+        "children" : [ {
+          "name" : "点击验证码登录按钮，切换到验证码登录页面测试",
+          "uid" : "f7684d35decd1bb0",
+          "parentUid" : "24bbe46187ab2badc2cc08c3f2f5e682",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614654275936,
+            "stop" : 1614654288010,
+            "duration" : 12074
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "24bbe46187ab2badc2cc08c3f2f5e682"
+      }, {
+        "name" : "忘记密码按钮",
+        "children" : [ {
+          "name" : "未输入手机号时点击忘记密码按钮测试",
+          "uid" : "73a2b6c44c52ec4e",
+          "parentUid" : "6f43b7d62c81b784e90e7cb02b03b65c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654308253,
+            "stop" : 1614654314441,
+            "duration" : 6188
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "输入手机号时点击忘记密码按钮测试",
+          "uid" : "2b5542644237a0",
+          "parentUid" : "6f43b7d62c81b784e90e7cb02b03b65c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654333912,
+            "stop" : 1614654337755,
+            "duration" : 3843
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6f43b7d62c81b784e90e7cb02b03b65c"
+      }, {
+        "name" : "清除按钮",
+        "children" : [ {
+          "name" : "输入手机号时点击清除按钮测试",
+          "uid" : "54c55a7e857fe9cc",
+          "parentUid" : "3d7241a5129d27b3a8f1056c39801aeb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654357864,
+            "stop" : 1614654364128,
+            "duration" : 6264
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3d7241a5129d27b3a8f1056c39801aeb"
+      }, {
+        "name" : "用户协议按钮",
+        "children" : [ {
+          "name" : "点击用户协议测试",
+          "uid" : "b8d6d50cca491001",
+          "parentUid" : "5581d09f8e770b6aca53dca14114c265",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654384056,
+            "stop" : 1614654387698,
+            "duration" : 3642
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5581d09f8e770b6aca53dca14114c265"
+      }, {
+        "name" : "隐私政策按钮",
+        "children" : [ {
+          "name" : "点击隐私政策测试",
+          "uid" : "7331fa8de7790cc",
+          "parentUid" : "b11e6686df80e49fdc93821555dc2450",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654407692,
+            "stop" : 1614654412104,
+            "duration" : 4412
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b11e6686df80e49fdc93821555dc2450"
+      }, {
+        "name" : "手机账号登录--勾选同意",
+        "children" : [ {
+          "name" : "正确账号密码点击登录测试",
+          "uid" : "8485b51abae2355a",
+          "parentUid" : "8b8304c97bd3b953f05164dda0aad1dd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654431792,
+            "stop" : 1614654439548,
+            "duration" : 7756
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "错误账号密码点击登录测试",
+          "uid" : "809d4134fd5617e0",
+          "parentUid" : "8b8304c97bd3b953f05164dda0aad1dd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654464679,
+            "stop" : 1614654473478,
+            "duration" : 8799
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8b8304c97bd3b953f05164dda0aad1dd"
+      }, {
+        "name" : "手机账号登录--未勾选同意",
+        "children" : [ {
+          "name" : "正确账号密码点击登录测试",
+          "uid" : "b9bb82cf11b78030",
+          "parentUid" : "b5ae154efd305fe53787d0501362d933",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654493414,
+            "stop" : 1614654500643,
+            "duration" : 7229
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b5ae154efd305fe53787d0501362d933"
+      }, {
+        "name" : "显密按钮",
+        "children" : [ {
+          "name" : "输入账号密码点击显密测试",
+          "uid" : "aac11a3e6fb5c47a",
+          "parentUid" : "296174da3321e22e84d653d5ab14669f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654520503,
+            "stop" : 1614654527924,
+            "duration" : 7421
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "未输入账号密码点击显密测试",
+          "uid" : "3b97e4fee7ca8563",
+          "parentUid" : "296174da3321e22e84d653d5ab14669f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654547874,
+            "stop" : 1614654549755,
+            "duration" : 1881
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "296174da3321e22e84d653d5ab14669f"
+      }, {
+        "name" : "返回按钮",
+        "children" : [ {
+          "name" : "点击返回键，页面跳转到设备页测试",
+          "uid" : "7ec0af6f460344cd",
+          "parentUid" : "7f7d1065e93a3efffc85520e26adfbf5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654569003,
+            "stop" : 1614654572740,
+            "duration" : 3737
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7f7d1065e93a3efffc85520e26adfbf5"
+      } ],
+      "uid" : "05b27a5b60de2055d3be87dc7d2fe921"
+    } ],
+    "uid" : "c025b94f7bdcf4101aea10d8f12de44b"
+  }, {
+    "name" : "注册页",
+    "children" : [ {
+      "name" : "手机号注册",
+      "children" : [ {
+        "name" : "密码登录按钮",
+        "children" : [ {
+          "name" : "点击密码登录按钮，切换到密码登录页面测试",
+          "uid" : "dfc1aecedf2262d1",
+          "parentUid" : "501ecfaabebb6300b4511ef1dfbb782b",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614654591185,
+            "stop" : 1614654603542,
+            "duration" : 12357
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "501ecfaabebb6300b4511ef1dfbb782b"
+      }, {
+        "name" : "用户协议按钮",
+        "children" : [ {
+          "name" : "点击用户协议测试",
+          "uid" : "bd230551ad7d89b3",
+          "parentUid" : "bf0c2fe17dcdd6e990b83e8dae06f9a6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654621753,
+            "stop" : 1614654626193,
+            "duration" : 4440
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bf0c2fe17dcdd6e990b83e8dae06f9a6"
+      }, {
+        "name" : "隐私政策按钮",
+        "children" : [ {
+          "name" : "点击隐私政策测试",
+          "uid" : "550552c82d1e7956",
+          "parentUid" : "f155c6a43337a48d4b7e4c2ca9358863",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654644704,
+            "stop" : 1614654648862,
+            "duration" : 4158
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f155c6a43337a48d4b7e4c2ca9358863"
+      }, {
+        "name" : "注册按钮",
+        "children" : [ {
+          "name" : "未勾选同意，验证码错误点击注册失败测试",
+          "uid" : "cc89ddb359f6161d",
+          "parentUid" : "e1f75df993b8232b7a2063609b98e6ad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654667064,
+            "stop" : 1614654681164,
+            "duration" : 14100
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e1f75df993b8232b7a2063609b98e6ad"
+      }, {
+        "name" : "返回按钮",
+        "children" : [ {
+          "name" : "点击返回键，页面跳转到设备页测试",
+          "uid" : "8ed3e84222f24c0e",
+          "parentUid" : "23be1f5b3c0c2e3a909595e734afff90",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654704937,
+            "stop" : 1614654708260,
+            "duration" : 3323
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "23be1f5b3c0c2e3a909595e734afff90"
+      } ],
+      "uid" : "d478679061b91c20fea27a8f4c270d8c"
+    } ],
+    "uid" : "eba5fbe8eed233ab3f2336febd778232"
+  }, {
+    "name" : "个人资料页",
+    "children" : [ {
+      "name" : "头像",
+      "children" : [ {
+        "name" : "修改头像",
+        "children" : [ {
+          "name" : "修改头像点击取消按钮测试",
+          "uid" : "3909606302861a3",
+          "parentUid" : "ed5637b0fdd9cb647605f53cd929a1bd",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614654709757,
+            "stop" : 1614654709757,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ed5637b0fdd9cb647605f53cd929a1bd"
+      } ],
+      "uid" : "5a2352640d44d6c05445aaa3ca8646da"
+    }, {
+      "name" : "昵称",
+      "children" : [ {
+        "name" : "默认昵称",
+        "children" : [ {
+          "name" : "默认昵称点击取消按钮测试",
+          "uid" : "ddcb44192468473b",
+          "parentUid" : "7494af6e2674aa4d93b75597813ec0e3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654764091,
+            "stop" : 1614654767559,
+            "duration" : 3468
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "默认昵称点击确认按钮测试",
+          "uid" : "3ff36a243d41ef4c",
+          "parentUid" : "7494af6e2674aa4d93b75597813ec0e3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654791192,
+            "stop" : 1614654793753,
+            "duration" : 2561
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7494af6e2674aa4d93b75597813ec0e3"
+      }, {
+        "name" : "昵称未空",
+        "children" : [ {
+          "name" : "昵称未空点击取消按钮测试",
+          "uid" : "ab57e4e50b99292",
+          "parentUid" : "454f1e491ac047ac8108408bdae60221",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654816715,
+            "stop" : 1614654824168,
+            "duration" : 7453
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "昵称未空点击确认按钮测试",
+          "uid" : "49712cbeb6602240",
+          "parentUid" : "454f1e491ac047ac8108408bdae60221",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654847300,
+            "stop" : 1614654853205,
+            "duration" : 5905
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "454f1e491ac047ac8108408bdae60221"
+      }, {
+        "name" : "1-20位昵称",
+        "children" : [ {
+          "name" : "1-20位昵称点击取消按钮测试",
+          "uid" : "e21a072b035f0bb1",
+          "parentUid" : "1f77293a56edd216a556dc0e4ab442da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654876466,
+            "stop" : 1614654881489,
+            "duration" : 5023
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "1-20位昵称点击确认按钮测试",
+          "uid" : "a4c277d7395dc93b",
+          "parentUid" : "1f77293a56edd216a556dc0e4ab442da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654905326,
+            "stop" : 1614654912654,
+            "duration" : 7328
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1f77293a56edd216a556dc0e4ab442da"
+      }, {
+        "name" : "超20位昵称",
+        "children" : [ {
+          "name" : "输入超20位昵称测试",
+          "uid" : "f96eee073b701a93",
+          "parentUid" : "efc2478d19cf7c0292b03edf49c8740f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654935509,
+            "stop" : 1614654940253,
+            "duration" : 4744
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "efc2478d19cf7c0292b03edf49c8740f"
+      } ],
+      "uid" : "7c4ecb45ac0496f3f7dcc3f439bdaea3"
+    }, {
+      "name" : "姓名",
+      "children" : [ {
+        "name" : "默认姓名",
+        "children" : [ {
+          "name" : "默认姓名点击取消按钮测试",
+          "uid" : "eae522d1e8f8e75",
+          "parentUid" : "11fc29b38f14dbe07b165ab990d99e7f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654962959,
+            "stop" : 1614654966351,
+            "duration" : 3392
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "默认姓名点击确认按钮测试",
+          "uid" : "f04b29c3faa96b7",
+          "parentUid" : "11fc29b38f14dbe07b165ab990d99e7f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614654989965,
+            "stop" : 1614654993411,
+            "duration" : 3446
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "11fc29b38f14dbe07b165ab990d99e7f"
+      }, {
+        "name" : "姓名为空",
+        "children" : [ {
+          "name" : "姓名为空点击取消按钮测试",
+          "uid" : "bf69c3918b28c38d",
+          "parentUid" : "ff844e49d355bfc7927880889060be62",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655017276,
+            "stop" : 1614655024943,
+            "duration" : 7667
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "姓名为空点击确认按钮测试",
+          "uid" : "76d2c73703acef66",
+          "parentUid" : "ff844e49d355bfc7927880889060be62",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655048716,
+            "stop" : 1614655054140,
+            "duration" : 5424
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ff844e49d355bfc7927880889060be62"
+      }, {
+        "name" : "1-20位姓名",
+        "children" : [ {
+          "name" : "1-20位姓名点击取消按钮测试",
+          "uid" : "a12b5f19a5e6319e",
+          "parentUid" : "4cb5f8bd4d674fe3856e04d38dc60dc6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655076837,
+            "stop" : 1614655082205,
+            "duration" : 5368
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "1-20位姓名点击确认按钮测试",
+          "uid" : "cd0f9d03597ce481",
+          "parentUid" : "4cb5f8bd4d674fe3856e04d38dc60dc6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655105941,
+            "stop" : 1614655113979,
+            "duration" : 8038
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4cb5f8bd4d674fe3856e04d38dc60dc6"
+      }, {
+        "name" : "超20位姓名",
+        "children" : [ {
+          "name" : "输入超20位姓名测试",
+          "uid" : "64d8379f796b7634",
+          "parentUid" : "26b8e695ae55bfadc8df01d4e03d9018",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655137630,
+            "stop" : 1614655141351,
+            "duration" : 3721
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "26b8e695ae55bfadc8df01d4e03d9018"
+      } ],
+      "uid" : "8eba37ef5bce6cf3d75846526db68719"
+    }, {
+      "name" : "性别",
+      "children" : [ {
+        "name" : "性别男",
+        "children" : [ {
+          "name" : "点击性别男按钮测试",
+          "uid" : "1d1cf06397a83b7d",
+          "parentUid" : "e7478e0250828d805974acbea1070125",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655164712,
+            "stop" : 1614655169920,
+            "duration" : 5208
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e7478e0250828d805974acbea1070125"
+      }, {
+        "name" : "性别女",
+        "children" : [ {
+          "name" : "点击性别女按钮测试",
+          "uid" : "d7488aead2c5b445",
+          "parentUid" : "669d68928be421f8fd22fa8f000598a2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655193294,
+            "stop" : 1614655199680,
+            "duration" : 6386
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "669d68928be421f8fd22fa8f000598a2"
+      } ],
+      "uid" : "affbb75a0788d4cc379a736ced92e2cb"
+    }, {
+      "name" : "出生日期",
+      "children" : [ {
+        "name" : "默认当前日期",
+        "children" : [ {
+          "name" : "当前日期点击确定测试",
+          "uid" : "193a3ea1c09f19ae",
+          "parentUid" : "b87b58cdca00da48b6aeca5c2f71ab27",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655222527,
+            "stop" : 1614655226926,
+            "duration" : 4399
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "当前日期点击取消测试",
+          "uid" : "e9d951fd60731de0",
+          "parentUid" : "b87b58cdca00da48b6aeca5c2f71ab27",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655249922,
+            "stop" : 1614655253507,
+            "duration" : 3585
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b87b58cdca00da48b6aeca5c2f71ab27"
+      } ],
+      "uid" : "dee11ccd168fe2806440613a83e892e7"
+    }, {
+      "name" : "所在地区",
+      "children" : [ {
+        "name" : "选择所在地区",
+        "children" : [ {
+          "name" : "上下滑动选择所在地区测试",
+          "uid" : "4b137317904152cf",
+          "parentUid" : "ddadd8da5f2ce22b5dc14b0f999d7064",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655276800,
+            "stop" : 1614655293910,
+            "duration" : 17110
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ddadd8da5f2ce22b5dc14b0f999d7064"
+      } ],
+      "uid" : "d27498e46f08fc4c7a1fb335cf1f7ade"
+    }, {
+      "name" : "返回",
+      "children" : [ {
+        "name" : "返回按钮",
+        "children" : [ {
+          "name" : "点击返回按钮，跳转至我的页面测试",
+          "uid" : "9ac03881339e7de3",
+          "parentUid" : "95f7e4771b41fe296336aa1eb89a3abc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655316786,
+            "stop" : 1614655319783,
+            "duration" : 2997
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "95f7e4771b41fe296336aa1eb89a3abc"
+      } ],
+      "uid" : "4fbc935caae4f8ca832c4e7f3c73802c"
+    } ],
+    "uid" : "ee6695e13821bd39917831a928cb1a49"
+  }, {
+    "name" : "房间管理",
+    "children" : [ {
+      "name" : "新增房间",
+      "children" : [ {
+        "name" : "房间名称",
+        "children" : [ {
+          "name" : "房间名称，未输入",
+          "uid" : "881620235e71938a",
+          "parentUid" : "88ff1955d2ced40278da99afce5cf9f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655345122,
+            "stop" : 1614655351856,
+            "duration" : 6734
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "输入汉字",
+          "uid" : "9d7ca53791234d4f",
+          "parentUid" : "88ff1955d2ced40278da99afce5cf9f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655351864,
+            "stop" : 1614655358313,
+            "duration" : 6449
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "输入超过20位汉字",
+          "uid" : "e0d9bc83c0d64674",
+          "parentUid" : "88ff1955d2ced40278da99afce5cf9f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655358321,
+            "stop" : 1614655365106,
+            "duration" : 6785
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "输入字符",
+          "uid" : "101769d25b7828c9",
+          "parentUid" : "88ff1955d2ced40278da99afce5cf9f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655365115,
+            "stop" : 1614655371102,
+            "duration" : 5987
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "输入字母",
+          "uid" : "c404983ff03497c",
+          "parentUid" : "88ff1955d2ced40278da99afce5cf9f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655371108,
+            "stop" : 1614655378298,
+            "duration" : 7190
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "输入数字",
+          "uid" : "b22b2700c0c50abf",
+          "parentUid" : "88ff1955d2ced40278da99afce5cf9f5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655378305,
+            "stop" : 1614655385814,
+            "duration" : 7509
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "88ff1955d2ced40278da99afce5cf9f5"
+      }, {
+        "name" : "房间数量",
+        "children" : [ {
+          "name" : "不断新增",
+          "uid" : "f184344c26d4e17b",
+          "parentUid" : "633729f6164fd9063575eb0a0aabf753",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655574086,
+            "stop" : 1614655809520,
+            "duration" : 235434
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "633729f6164fd9063575eb0a0aabf753"
+      } ],
+      "uid" : "385d0ffea115dceacf90577c67bb7c7a"
+    }, {
+      "name" : "具体房间",
+      "children" : [ {
+        "name" : "修改房间名称",
+        "children" : [ {
+          "name" : "修改房间名称",
+          "uid" : "f4ff4bb19010ba8b",
+          "parentUid" : "3d95e604b9c46ea9e9ce9ffb55ff268c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655410482,
+            "stop" : 1614655417428,
+            "duration" : 6946
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3d95e604b9c46ea9e9ce9ffb55ff268c"
+      }, {
+        "name" : "删除房间",
+        "children" : [ {
+          "name" : "取消删除",
+          "uid" : "ca1871fa15392564",
+          "parentUid" : "b6a237fa31cf86b32132b7aa48af2b7c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655442187,
+            "stop" : 1614655447675,
+            "duration" : 5488
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "确认删除",
+          "uid" : "463744fa1f49e4a",
+          "parentUid" : "b6a237fa31cf86b32132b7aa48af2b7c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655472636,
+            "stop" : 1614655478689,
+            "duration" : 6053
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "不断删除房间直至全部删除",
+          "uid" : "fedd7043edb63857",
+          "parentUid" : "b6a237fa31cf86b32132b7aa48af2b7c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655834337,
+            "stop" : 1614656051597,
+            "duration" : 217260
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b6a237fa31cf86b32132b7aa48af2b7c"
+      }, {
+        "name" : "设备",
+        "children" : [ {
+          "name" : "查看设备[仅查看有无设备]",
+          "uid" : "d716284f5ddd01a3",
+          "parentUid" : "4501b5d8dfa93adb3dadfeb38261a5c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655503535,
+            "stop" : 1614655515819,
+            "duration" : 12284
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "添加设备",
+          "uid" : "3a725a07d8b9df9c",
+          "parentUid" : "4501b5d8dfa93adb3dadfeb38261a5c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614655540907,
+            "stop" : 1614655548814,
+            "duration" : 7907
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4501b5d8dfa93adb3dadfeb38261a5c4"
+      } ],
+      "uid" : "842bc457a5fe6c5de0d643aab5270e96"
+    } ],
+    "uid" : "c40e9747d0516a89d63ecbe4f16725a4"
+  }, {
+    "name" : "场景推荐页",
+    "children" : [ {
+      "name" : "回家(手动)",
+      "children" : [ {
+        "name" : "无设备状态",
+        "children" : [ {
+          "name" : "点击继续添加设备按钮测试",
+          "uid" : "e72a71189d96a99",
+          "parentUid" : "cfa28b147d63cf56f6134cff3878b124",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656070925,
+            "stop" : 1614656077555,
+            "duration" : 6630
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "点击选择设备按钮测试",
+          "uid" : "3ec83240411c1e5e",
+          "parentUid" : "cfa28b147d63cf56f6134cff3878b124",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656098020,
+            "stop" : 1614656104714,
+            "duration" : 6694
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cfa28b147d63cf56f6134cff3878b124"
+      }, {
+        "name" : "未添加设备",
+        "children" : [ {
+          "name" : "点击确定按钮测试",
+          "uid" : "c60994b403ee95ab",
+          "parentUid" : "3412872303cc7c0fc18e9a2b05c15172",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656124798,
+            "stop" : 1614656132005,
+            "duration" : 7207
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "点击返回按钮测试",
+          "uid" : "526952b73c8d83d8",
+          "parentUid" : "3412872303cc7c0fc18e9a2b05c15172",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656151680,
+            "stop" : 1614656160115,
+            "duration" : 8435
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3412872303cc7c0fc18e9a2b05c15172"
+      } ],
+      "uid" : "32f74d234cbcecf0be93a76fa6278734"
+    }, {
+      "name" : "离家(手动)",
+      "children" : [ {
+        "name" : "无设备状态",
+        "children" : [ {
+          "name" : "点击继续添加设备按钮测试",
+          "uid" : "aee63e64a875aa2f",
+          "parentUid" : "a4f3dc0180aa120e2db098cacc288a3a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656180303,
+            "stop" : 1614656188034,
+            "duration" : 7731
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "点击选择设备按钮测试",
+          "uid" : "b6b507a68927942b",
+          "parentUid" : "a4f3dc0180aa120e2db098cacc288a3a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656207560,
+            "stop" : 1614656214801,
+            "duration" : 7241
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a4f3dc0180aa120e2db098cacc288a3a"
+      }, {
+        "name" : "未添加设备",
+        "children" : [ {
+          "name" : "点击确定按钮测试",
+          "uid" : "2ad289a6d9af7034",
+          "parentUid" : "6ecf36bde00988965206f6935eb4388f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656235277,
+            "stop" : 1614656242139,
+            "duration" : 6862
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "点击返回按钮测试",
+          "uid" : "5de7671729dbfcef",
+          "parentUid" : "6ecf36bde00988965206f6935eb4388f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656262326,
+            "stop" : 1614656270034,
+            "duration" : 7708
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6ecf36bde00988965206f6935eb4388f"
+      } ],
+      "uid" : "8e804009947218f4ac589ae4857f0249"
+    }, {
+      "name" : "多设备快捷控制",
+      "children" : [ {
+        "name" : "无设备状态",
+        "children" : [ {
+          "name" : "点击多设备快捷控制按钮测试",
+          "uid" : "4bbd657e1d9e5959",
+          "parentUid" : "805bdc9608c079992aa8f3ac9c79f44e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656289978,
+            "stop" : 1614656294345,
+            "duration" : 4367
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "805bdc9608c079992aa8f3ac9c79f44e"
+      } ],
+      "uid" : "3ce84f02c3952e7c379214d1b6e812f8"
+    } ],
+    "uid" : "cebbd2dd3d7f57ab6d2131a204fd04e8"
+  }, {
+    "name" : "新增场景页",
+    "children" : [ {
+      "name" : "手动触发",
+      "children" : [ {
+        "name" : "无设备状态",
+        "children" : [ {
+          "name" : "点击手动触发按钮测试",
+          "uid" : "9bb3ff5a6a880531",
+          "parentUid" : "2194ab75234a95d0bc82f8d8fe173a71",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656314545,
+            "stop" : 1614656320065,
+            "duration" : 5520
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2194ab75234a95d0bc82f8d8fe173a71"
+      } ],
+      "uid" : "300f06c9029b367409c4403a1ba6f3a5"
+    }, {
+      "name" : "位置触发",
+      "children" : [ {
+        "name" : "无设备状态",
+        "children" : [ {
+          "name" : "点击手动触发按钮测试",
+          "uid" : "6097f81e3c4d7f2a",
+          "parentUid" : "145b4801849efcdd5cdcf4076e97a15c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656340100,
+            "stop" : 1614656345159,
+            "duration" : 5059
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "145b4801849efcdd5cdcf4076e97a15c"
+      } ],
+      "uid" : "703d58224c688bc413e02226a4790f2b"
+    }, {
+      "name" : "时间触发",
+      "children" : [ {
+        "name" : "无设备状态",
+        "children" : [ {
+          "name" : "点击手动触发按钮测试",
+          "uid" : "2024d6a46905a830",
+          "parentUid" : "89cea3e777b59c6b388004c175178d2d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656365205,
+            "stop" : 1614656369861,
+            "duration" : 4656
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "89cea3e777b59c6b388004c175178d2d"
+      } ],
+      "uid" : "f20ebde2f6491114b6b99233192f0931"
+    } ],
+    "uid" : "1b09559ee73ba0e1a30e85bf2b07f0f3"
+  }, {
+    "name" : "场景我的页",
+    "children" : [ {
+      "name" : "默认场景",
+      "children" : [ {
+        "name" : "无设备状态",
+        "children" : [ {
+          "name" : "删除离家回家场景测试",
+          "uid" : "28f52cce73c7ca2",
+          "parentUid" : "e6755731d7ac39ca0556b15f38c7ed04",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656389752,
+            "stop" : 1614656397465,
+            "duration" : 7713
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e6755731d7ac39ca0556b15f38c7ed04"
+      } ],
+      "uid" : "111c72241e2fcbabbaa803a32a84487d"
+    } ],
+    "uid" : "f7d13fa6144a33fe468e89419e30c599"
+  }, {
+    "name" : "设置页",
+    "children" : [ {
+      "name" : "界面",
+      "children" : [ {
+        "name" : "设置页UI",
+        "children" : [ {
+          "name" : "设置页UI显示文本测试",
+          "uid" : "9e5753c7b63c9ee",
+          "parentUid" : "d4c7f32ddbc294595470dbc53300b1ae",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614656418230,
+            "stop" : 1614656435110,
+            "duration" : 16880
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d4c7f32ddbc294595470dbc53300b1ae"
+      } ],
+      "uid" : "909b90189121a05e8052d30b4e47914d"
+    }, {
+      "name" : "账号安全",
+      "children" : [ {
+        "name" : "账号安全UI",
+        "children" : [ {
+          "name" : "账号安全UI显示文本测试",
+          "uid" : "ebdc8c614192ddd",
+          "parentUid" : "2ce765d0938777aabf26a57d2386df74",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656454973,
+            "stop" : 1614656460764,
+            "duration" : 5791
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2ce765d0938777aabf26a57d2386df74"
+      } ],
+      "uid" : "8ee1dc5ebca5779f94106144c8b111e1"
+    }, {
+      "name" : "消息免打扰",
+      "children" : [ {
+        "name" : "免打扰开关按钮",
+        "children" : [ {
+          "name" : "消息免打扰开启和关闭切换测试",
+          "uid" : "dd48c87053c911ba",
+          "parentUid" : "d2bb5b2736522f0e69c776b422869823",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656479995,
+            "stop" : 1614656499651,
+            "duration" : 19656
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d2bb5b2736522f0e69c776b422869823"
+      } ],
+      "uid" : "5d6a5b98114148974d4117ff527c1e5d"
+    }, {
+      "name" : "设备展示方式",
+      "children" : [ {
+        "name" : "设备展示按钮",
+        "children" : [ {
+          "name" : "列表模式和宫格模式切换测试",
+          "uid" : "f10ee19a841e789b",
+          "parentUid" : "7840c06cf7590ac3c0a2ab2802c9e245",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656519576,
+            "stop" : 1614656535345,
+            "duration" : 15769
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7840c06cf7590ac3c0a2ab2802c9e245"
+      } ],
+      "uid" : "b0684989f7a1a46798c70ff26d30ee08"
+    }, {
+      "name" : "深色模式",
+      "children" : [ {
+        "name" : "深色模式按钮",
+        "children" : [ {
+          "name" : "普通模式和深色模式切换测试",
+          "uid" : "2f47c6e12b3ca33",
+          "parentUid" : "cbb84892e2470e5cdd7fa3f35d8ba247",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656555818,
+            "stop" : 1614656573021,
+            "duration" : 17203
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cbb84892e2470e5cdd7fa3f35d8ba247"
+      } ],
+      "uid" : "e3424311628aa56ee7d954b76c3fb3d6"
+    }, {
+      "name" : "去评价",
+      "children" : [ {
+        "name" : "去吐槽按钮",
+        "children" : [ {
+          "name" : "点击去吐槽按钮，切换到意见反馈页面测试",
+          "uid" : "4af522fa546d97ac",
+          "parentUid" : "fb8c85da6bd280797e87238f51f4a362",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656592347,
+            "stop" : 1614656598833,
+            "duration" : 6486
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fb8c85da6bd280797e87238f51f4a362"
+      }, {
+        "name" : "取消按钮",
+        "children" : [ {
+          "name" : "点击取消按钮，关闭去评价弹框测试",
+          "uid" : "99d9dc577de119ef",
+          "parentUid" : "8504e10be21c74ba2378680b00cadaff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656618542,
+            "stop" : 1614656624378,
+            "duration" : 5836
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8504e10be21c74ba2378680b00cadaff"
+      } ],
+      "uid" : "548185aea36c4b652f1e456a1c2496ec"
+    }, {
+      "name" : "关于奥云家",
+      "children" : [ {
+        "name" : "关于奥云家UI",
+        "children" : [ {
+          "name" : "关于奥云家UI显示文本测试",
+          "uid" : "2b29a011886d1971",
+          "parentUid" : "820cc45265abc64f32fbadf6378127e1",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614656643496,
+            "stop" : 1614656658652,
+            "duration" : 15156
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "820cc45265abc64f32fbadf6378127e1"
+      }, {
+        "name" : "数据隐私声明按钮",
+        "children" : [ {
+          "name" : "点击数据隐私声明按钮，切换到奥克斯集团隐私政策页面测试",
+          "uid" : "6283e318622b0ee6",
+          "parentUid" : "0f287ebfdeb72b02057b96ee531db148",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656678724,
+            "stop" : 1614656684963,
+            "duration" : 6239
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0f287ebfdeb72b02057b96ee531db148"
+      }, {
+        "name" : "官网按钮",
+        "children" : [ {
+          "name" : "点击官网按钮，切换到奥克斯空调官网页面测试",
+          "uid" : "1e704bb1554cbe9f",
+          "parentUid" : "bb93a1c5ea8e1acc89add70a24806f8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656705355,
+            "stop" : 1614656713141,
+            "duration" : 7786
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bb93a1c5ea8e1acc89add70a24806f8a"
+      }, {
+        "name" : "服务热线按钮",
+        "children" : [ {
+          "name" : "点击服务热线按钮，切换到手机号拨打页面测试",
+          "uid" : "40f822026ecef6d6",
+          "parentUid" : "18b074a1bed951e786c6c1d384032582",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656736941,
+            "stop" : 1614656743225,
+            "duration" : 6284
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "18b074a1bed951e786c6c1d384032582"
+      }, {
+        "name" : "分享奥云家按钮",
+        "children" : [ {
+          "name" : "点击分享奥云家按钮，显示奥云家分享方式测试",
+          "uid" : "881fb4e1b6777314",
+          "parentUid" : "bd1b3dd1726fd15fbf61a8e755cfae86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656763449,
+            "stop" : 1614656770835,
+            "duration" : 7386
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bd1b3dd1726fd15fbf61a8e755cfae86"
+      } ],
+      "uid" : "0a74ac29d9a4dd132b6c6e88cf6783ba"
+    }, {
+      "name" : "退出登录",
+      "children" : [ {
+        "name" : "取消按钮",
+        "children" : [ {
+          "name" : "点击取消按钮，关闭退出登录弹框测试",
+          "uid" : "f70d564952c4518b",
+          "parentUid" : "9ed6e6bcfefc9439e73dea892bad5357",
+          "status" : "passed",
+          "time" : {
+            "start" : 1614656790421,
+            "stop" : 1614656796922,
+            "duration" : 6501
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9ed6e6bcfefc9439e73dea892bad5357"
+      }, {
+        "name" : "确定按钮",
+        "children" : [ {
+          "name" : "点击确定按钮，账号退出登录测试",
+          "uid" : "393566cf3dc1cb12",
+          "parentUid" : "b9c926a87bb1f8ef6c8b26dc94b86b77",
+          "status" : "broken",
+          "time" : {
+            "start" : 1614656817083,
+            "stop" : 1614656831386,
+            "duration" : 14303
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b9c926a87bb1f8ef6c8b26dc94b86b77"
+      } ],
+      "uid" : "b5385ec56583266510d88c57f8dbc42f"
+    } ],
+    "uid" : "8194aa99144706b78a59a00b33ed2da8"
+  }, {
+    "name" : "需手动黑盒测试的功能模块",
+    "children" : [ {
+      "name" : "手机号注册--注册按钮",
+      "children" : [ {
+        "name" : "验证码正确点击注册成功测试",
+        "uid" : "f64dc43c91aa2fcf",
+        "parentUid" : "fa56f4581fa89beb0944128228ed287c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505188,
+          "stop" : 1614657505188,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fa56f4581fa89beb0944128228ed287c"
+    }, {
+      "name" : "QQ登录--QQ按钮",
+      "children" : [ {
+        "name" : "QQ登录成功测试",
+        "uid" : "667b438bf4c8f669",
+        "parentUid" : "5bf65a5be734fa4579784adadcc5b8dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505193,
+          "stop" : 1614657505193,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5bf65a5be734fa4579784adadcc5b8dd"
+    }, {
+      "name" : "微信登录--微信按钮",
+      "children" : [ {
+        "name" : "微信登录成功测试",
+        "uid" : "1e321be20b3004aa",
+        "parentUid" : "d23bb04e3877dba3c385019578fa5c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505195,
+          "stop" : 1614657505195,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d23bb04e3877dba3c385019578fa5c65"
+    }, {
+      "name" : "苹果登录--苹果按钮",
+      "children" : [ {
+        "name" : "苹果登录成功测试",
+        "uid" : "42e5113d3c234b29",
+        "parentUid" : "c8cc701a64fc45ac8ab86e0a026aa776",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505197,
+          "stop" : 1614657505197,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c8cc701a64fc45ac8ab86e0a026aa776"
+    }, {
+      "name" : "手机号登录--忘记密码",
+      "children" : [ {
+        "name" : "正确手机号，忘记密码并修改密码测试",
+        "uid" : "61bd456302dc22f1",
+        "parentUid" : "f583899d33eb0fc528d16309874776a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505199,
+          "stop" : 1614657505199,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f583899d33eb0fc528d16309874776a2"
+    }, {
+      "name" : "个人资料--头像",
+      "children" : [ {
+        "name" : "从相册或拍照方式修改头像测试",
+        "uid" : "7cccc4fb3ea7e44c",
+        "parentUid" : "576c1de072026f5b57867609635dccf8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505201,
+          "stop" : 1614657505201,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "576c1de072026f5b57867609635dccf8"
+    }, {
+      "name" : "设置--账号安全",
+      "children" : [ {
+        "name" : "修改密码测试",
+        "uid" : "6f5da862bbc4b2ff",
+        "parentUid" : "1ad1eff630cde705673eaa46c2b9d7c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505204,
+          "stop" : 1614657505204,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "账号注销测试",
+        "uid" : "1cca7f02a341a2c5",
+        "parentUid" : "1ad1eff630cde705673eaa46c2b9d7c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505206,
+          "stop" : 1614657505207,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "手机号更换测试",
+        "uid" : "2113af47874207ce",
+        "parentUid" : "1ad1eff630cde705673eaa46c2b9d7c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505213,
+          "stop" : 1614657505213,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "第三方平台绑定测试",
+        "uid" : "1a2162b495e297a5",
+        "parentUid" : "1ad1eff630cde705673eaa46c2b9d7c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505215,
+          "stop" : 1614657505215,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1ad1eff630cde705673eaa46c2b9d7c1"
+    }, {
+      "name" : "设置--去评价",
+      "children" : [ {
+        "name" : "给好评测试",
+        "uid" : "558c9cc469ae8e2d",
+        "parentUid" : "6ad84bccc43855d90279940c6f5fd14a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505218,
+          "stop" : 1614657505218,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "去吐槽--意见反馈提交测试",
+        "uid" : "2d7ac8d1dcd66f1c",
+        "parentUid" : "6ad84bccc43855d90279940c6f5fd14a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505220,
+          "stop" : 1614657505221,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ad84bccc43855d90279940c6f5fd14a"
+    }, {
+      "name" : "设置--关于奥云家",
+      "children" : [ {
+        "name" : "分享奥云家测试",
+        "uid" : "fe46a82094a4015",
+        "parentUid" : "8f668753e88e0d5076ad66f050e3de6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505223,
+          "stop" : 1614657505223,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8f668753e88e0d5076ad66f050e3de6f"
+    }, {
+      "name" : "场景--新增场景",
+      "children" : [ {
+        "name" : "位置触发场景测试",
+        "uid" : "2eaf83051139e859",
+        "parentUid" : "44867c78c371c857ef4d1445fe5147dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505225,
+          "stop" : 1614657505225,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "时间触发场景测试",
+        "uid" : "68ca91d6b726eb82",
+        "parentUid" : "44867c78c371c857ef4d1445fe5147dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614657505228,
+          "stop" : 1614657505228,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "44867c78c371c857ef4d1445fe5147dd"
+    } ],
+    "uid" : "63ef9784bc4dce1418a557913e1a21df"
+  } ]
+}

@@ -1,0 +1,4 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:23:54]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:24:16]新建家庭pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:24:20]输入家庭名称pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:24:23]清除家庭名称pass

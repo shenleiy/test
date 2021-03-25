@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:41:02]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:41:31]关闭消息免打扰pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:41:39]开启消息免打扰pass

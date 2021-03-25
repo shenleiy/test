@@ -1,0 +1,126 @@
+{
+  "uid" : "4af522fa546d97ac",
+  "name" : "点击去吐槽按钮，切换到意见反馈页面测试",
+  "fullName" : "case.test_setting.TestClass6#test1",
+  "historyId" : "0242cc23d21a141e82badf03a3f90070",
+  "time" : {
+    "start" : 1614656592347,
+    "stop" : 1614656598833,
+    "duration" : 6486
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test",
+    "time" : {
+      "start" : 1614656574465,
+      "stop" : 1614656592347,
+      "duration" : 17882
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1614651920320,
+      "stop" : 1614651920385,
+      "duration" : 65
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fafc6a24b53cd21a",
+      "name" : "log",
+      "source" : "fafc6a24b53cd21a.txt",
+      "type" : "text/plain",
+      "size" : 150
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test::0",
+    "time" : {
+      "start" : 1614656598834,
+      "stop" : 1614656600293,
+      "duration" : 1459
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "设置页"
+  }, {
+    "name" : "story",
+    "value" : "去吐槽按钮"
+  }, {
+    "name" : "feature",
+    "value" : "去评价"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_setting"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass6"
+  }, {
+    "name" : "host",
+    "value" : "jd-pc-ita001820"
+  }, {
+    "name" : "thread",
+    "value" : "10476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_setting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4af522fa546d97ac.json",
+  "parameterValues" : [ ]
+}

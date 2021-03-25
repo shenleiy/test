@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:31:09]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:31:32]切换成除湿模式pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:31:37]非制热模式下点击电加热pass

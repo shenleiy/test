@@ -1,0 +1,2201 @@
+[ {
+  "uid" : "cbc7f2ac6bc67cf9",
+  "name" : "进入报修页面",
+  "time" : {
+    "start" : 1614651951323,
+    "stop" : 1614651951323,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4bbd657e1d9e5959",
+  "name" : "点击多设备快捷控制按钮测试",
+  "time" : {
+    "start" : 1614656289978,
+    "stop" : 1614656294345,
+    "duration" : 4367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b22b2700c0c50abf",
+  "name" : "输入数字",
+  "time" : {
+    "start" : 1614655378305,
+    "stop" : 1614655385814,
+    "duration" : 7509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb04f0247fcf648e",
+  "name" : "账号问题展示",
+  "time" : {
+    "start" : 1614653119004,
+    "stop" : 1614653127918,
+    "duration" : 8914
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8acfb0eb78a3fcc",
+  "name" : "修改个人信息详情",
+  "time" : {
+    "start" : 1614653197307,
+    "stop" : 1614653203272,
+    "duration" : 5965
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7331fa8de7790cc",
+  "name" : "点击隐私政策测试",
+  "time" : {
+    "start" : 1614654407692,
+    "stop" : 1614654412104,
+    "duration" : 4412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4c277d7395dc93b",
+  "name" : "1-20位昵称点击确认按钮测试",
+  "time" : {
+    "start" : 1614654905326,
+    "stop" : 1614654912654,
+    "duration" : 7328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f2a22022bf11fd0",
+  "name" : "点击删除",
+  "time" : {
+    "start" : 1614654050740,
+    "stop" : 1614654055866,
+    "duration" : 5126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6e5c7068a6257eb",
+  "name" : "点击未登录按钮测试",
+  "time" : {
+    "start" : 1614652685671,
+    "stop" : 1614652685671,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e9c335fd413c8e5",
+  "name" : "预约日期选择",
+  "time" : {
+    "start" : 1614652205792,
+    "stop" : 1614652208735,
+    "duration" : 2943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d716284f5ddd01a3",
+  "name" : "查看设备[仅查看有无设备]",
+  "time" : {
+    "start" : 1614655503535,
+    "stop" : 1614655515819,
+    "duration" : 12284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1784e17b7c0ad0d8",
+  "name" : "其他问题展示",
+  "time" : {
+    "start" : 1614653147696,
+    "stop" : 1614653151232,
+    "duration" : 3536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f96eee073b701a93",
+  "name" : "输入超20位昵称测试",
+  "time" : {
+    "start" : 1614654935509,
+    "stop" : 1614654940253,
+    "duration" : 4744
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10fe0467ad3f33c",
+  "name" : "1-20位家庭名称点击确认测试",
+  "time" : {
+    "start" : 1614652954893,
+    "stop" : 1614652965631,
+    "duration" : 10738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "988018887f221dcf",
+  "name" : "开启童锁后随即点击任意按钮",
+  "time" : {
+    "start" : 1614657454576,
+    "stop" : 1614657503716,
+    "duration" : 49140
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9f58e688ad03a1d1",
+  "name" : "整体展示",
+  "time" : {
+    "start" : 1614651972029,
+    "stop" : 1614651982630,
+    "duration" : 10601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e987d2fc27d202a4",
+  "name" : "进入报装页面",
+  "time" : {
+    "start" : 1614651951281,
+    "stop" : 1614651951281,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a0d5c8b22616043f",
+  "name" : "修改姓名手机号",
+  "time" : {
+    "start" : 1614652575417,
+    "stop" : 1614652590089,
+    "duration" : 14672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c60994b403ee95ab",
+  "name" : "点击确定按钮测试",
+  "time" : {
+    "start" : 1614656124798,
+    "stop" : 1614656132005,
+    "duration" : 7207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1a86918f9b2fd3a",
+  "name" : "单位类型未选择",
+  "time" : {
+    "start" : 1614652081238,
+    "stop" : 1614652094728,
+    "duration" : 13490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b137317904152cf",
+  "name" : "上下滑动选择所在地区测试",
+  "time" : {
+    "start" : 1614655276800,
+    "stop" : 1614655293910,
+    "duration" : 17110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe46a82094a4015",
+  "name" : "分享奥云家测试",
+  "time" : {
+    "start" : 1614657505223,
+    "stop" : 1614657505223,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "473740ff6cd14021",
+  "name" : "制热模式下点击ECO",
+  "time" : {
+    "start" : 1614656925050,
+    "stop" : 1614656935966,
+    "duration" : 10916
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9d6daf55d9622b89",
+  "name" : "空调报装、报修详情",
+  "time" : {
+    "start" : 1614653418589,
+    "stop" : 1614653426126,
+    "duration" : 7537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "337c9fa4c0ea921",
+  "name" : "制热模式下点击舒风",
+  "time" : {
+    "start" : 1614656955182,
+    "stop" : 1614656964745,
+    "duration" : 9563
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ec83240411c1e5e",
+  "name" : "点击选择设备按钮测试",
+  "time" : {
+    "start" : 1614656098020,
+    "stop" : 1614656104714,
+    "duration" : 6694
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b5542644237a0",
+  "name" : "输入手机号时点击忘记密码按钮测试",
+  "time" : {
+    "start" : 1614654333912,
+    "stop" : 1614654337755,
+    "duration" : 3843
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec5b6d5107f8ff60",
+  "name" : "通过意见反馈进入反馈页面测试",
+  "time" : {
+    "start" : 1614653454040,
+    "stop" : 1614653458124,
+    "duration" : 4084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "941ec3267b8bc97",
+  "name" : "忘记密码详情",
+  "time" : {
+    "start" : 1614653187388,
+    "stop" : 1614653191847,
+    "duration" : 4459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4af522fa546d97ac",
+  "name" : "点击去吐槽按钮，切换到意见反馈页面测试",
+  "time" : {
+    "start" : 1614656592347,
+    "stop" : 1614656598833,
+    "duration" : 6486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e704bb1554cbe9f",
+  "name" : "点击官网按钮，切换到奥克斯空调官网页面测试",
+  "time" : {
+    "start" : 1614656705355,
+    "stop" : 1614656713141,
+    "duration" : 7786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5a172370bb42a3f",
+  "name" : "手机号未满11位",
+  "time" : {
+    "start" : 1614652423092,
+    "stop" : 1614652451657,
+    "duration" : 28565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca1871fa15392564",
+  "name" : "取消删除",
+  "time" : {
+    "start" : 1614655442187,
+    "stop" : 1614655447675,
+    "duration" : 5488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73a2b6c44c52ec4e",
+  "name" : "未输入手机号时点击忘记密码按钮测试",
+  "time" : {
+    "start" : 1614654308253,
+    "stop" : 1614654314441,
+    "duration" : 6188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e72a71189d96a99",
+  "name" : "点击继续添加设备按钮测试",
+  "time" : {
+    "start" : 1614656070925,
+    "stop" : 1614656077555,
+    "duration" : 6630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d7ac8d1dcd66f1c",
+  "name" : "去吐槽--意见反馈提交测试",
+  "time" : {
+    "start" : 1614657505220,
+    "stop" : 1614657505221,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5de7671729dbfcef",
+  "name" : "点击返回按钮测试",
+  "time" : {
+    "start" : 1614656262326,
+    "stop" : 1614656270034,
+    "duration" : 7708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f47c6e12b3ca33",
+  "name" : "普通模式和深色模式切换测试",
+  "time" : {
+    "start" : 1614656555818,
+    "stop" : 1614656573021,
+    "duration" : 17203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b52eefdd1c17e266",
+  "name" : "产品线选择",
+  "time" : {
+    "start" : 1614652193766,
+    "stop" : 1614652202509,
+    "duration" : 8743
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a12b5f19a5e6319e",
+  "name" : "1-20位姓名点击取消按钮测试",
+  "time" : {
+    "start" : 1614655076837,
+    "stop" : 1614655082205,
+    "duration" : 5368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abb7a946fef11f57",
+  "name" : "除湿模式下点击ECO",
+  "time" : {
+    "start" : 1614656983120,
+    "stop" : 1614656994317,
+    "duration" : 11197
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4068f8479284ef81",
+  "name" : "设备管理展示",
+  "time" : {
+    "start" : 1614653132079,
+    "stop" : 1614653137138,
+    "duration" : 5059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18149070e882af48",
+  "name" : "跳转到产品使用指南页",
+  "time" : {
+    "start" : 1614653825474,
+    "stop" : 1614653835433,
+    "duration" : 9959
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3c244180883d6",
+  "name" : "购买日期选择",
+  "time" : {
+    "start" : 1614652202512,
+    "stop" : 1614652205789,
+    "duration" : 3277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63d95dce1e81f949",
+  "name" : "如何添加场景模式详情",
+  "time" : {
+    "start" : 1614653383127,
+    "stop" : 1614653390724,
+    "duration" : 7597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bb3ff5a6a880531",
+  "name" : "点击手动触发按钮测试",
+  "time" : {
+    "start" : 1614656314545,
+    "stop" : 1614656320065,
+    "duration" : 5520
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ede874037880ab8b",
+  "name" : "虚拟体验UI显示文本测试",
+  "time" : {
+    "start" : 1614656849883,
+    "stop" : 1614656857474,
+    "duration" : 7591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7020c430b570d63",
+  "name" : "产品线选项展示",
+  "time" : {
+    "start" : 1614652181861,
+    "stop" : 1614652193762,
+    "duration" : 11901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40c7c60724f1bfe2",
+  "name" : "整体展示",
+  "time" : {
+    "start" : 1614652151580,
+    "stop" : 1614652160736,
+    "duration" : 9156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f5da862bbc4b2ff",
+  "name" : "修改密码测试",
+  "time" : {
+    "start" : 1614657505204,
+    "stop" : 1614657505204,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "189c7204707f5ac2",
+  "name" : "账号注册详情",
+  "time" : {
+    "start" : 1614653173310,
+    "stop" : 1614653181716,
+    "duration" : 8406
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b5608bebc63326c",
+  "name" : "设为默认地址",
+  "time" : {
+    "start" : 1614652524093,
+    "stop" : 1614652555253,
+    "duration" : 31160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73bb44ecf3ff0c0a",
+  "name" : "修改账号密码详情",
+  "time" : {
+    "start" : 1614653203279,
+    "stop" : 1614653209286,
+    "duration" : 6007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69883c06dcfc2fe3",
+  "name" : "进入服务声明页面",
+  "time" : {
+    "start" : 1614651951426,
+    "stop" : 1614651951426,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "90134a8915a505d6",
+  "name" : "点击不同意隐私声明按钮测试",
+  "time" : {
+    "start" : 1614652644688,
+    "stop" : 1614652646007,
+    "duration" : 1319
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8485b51abae2355a",
+  "name" : "正确账号密码点击登录测试",
+  "time" : {
+    "start" : 1614654431792,
+    "stop" : 1614654439548,
+    "duration" : 7756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5e3ad3fd53af9b1",
+  "name" : "字数限制",
+  "time" : {
+    "start" : 1614653624769,
+    "stop" : 1614653626684,
+    "duration" : 1915
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28f52cce73c7ca2",
+  "name" : "删除离家回家场景测试",
+  "time" : {
+    "start" : 1614656389752,
+    "stop" : 1614656397465,
+    "duration" : 7713
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9df730ddcd3ae969",
+  "name" : "输入超20位家庭名称测试",
+  "time" : {
+    "start" : 1614653010552,
+    "stop" : 1614653017505,
+    "duration" : 6953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8aa54b58b3e5a40",
+  "name" : "提交按钮判断",
+  "time" : {
+    "start" : 1614652265965,
+    "stop" : 1614652298815,
+    "duration" : 32850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31e1f98677a891ed",
+  "name" : "输入限制",
+  "time" : {
+    "start" : 1614653649151,
+    "stop" : 1614653660386,
+    "duration" : 11235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e21a072b035f0bb1",
+  "name" : "1-20位昵称点击取消按钮测试",
+  "time" : {
+    "start" : 1614654876466,
+    "stop" : 1614654881489,
+    "duration" : 5023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b29a011886d1971",
+  "name" : "关于奥云家UI显示文本测试",
+  "time" : {
+    "start" : 1614656643496,
+    "stop" : 1614656658652,
+    "duration" : 15156
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2036a2d094d7c584",
+  "name" : "通过历史记录查看",
+  "time" : {
+    "start" : 1614654006371,
+    "stop" : 1614654020137,
+    "duration" : 13766
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "691ce9eb597e4683",
+  "name" : "如何设置睡眠DIY详情",
+  "time" : {
+    "start" : 1614653286766,
+    "stop" : 1614653301060,
+    "duration" : 14294
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "891c8007efab6f38",
+  "name" : "删除联系人-确认",
+  "time" : {
+    "start" : 1614652622731,
+    "stop" : 1614652627449,
+    "duration" : 4718
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80e7dfe0bcb80f8",
+  "name" : "查看知识库",
+  "time" : {
+    "start" : 1614654079692,
+    "stop" : 1614654251874,
+    "duration" : 172182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f10ee19a841e789b",
+  "name" : "列表模式和宫格模式切换测试",
+  "time" : {
+    "start" : 1614656519576,
+    "stop" : 1614656535345,
+    "duration" : 15769
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72e2e687834e7587",
+  "name" : "场景功能设置未执行详情",
+  "time" : {
+    "start" : 1614653390727,
+    "stop" : 1614653396002,
+    "duration" : 5275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c3748662219d5a4",
+  "name" : "开机状态下点击设备运行日志功能",
+  "time" : {
+    "start" : 1614657368757,
+    "stop" : 1614657378704,
+    "duration" : 9947
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfc1aecedf2262d1",
+  "name" : "点击密码登录按钮，切换到密码登录页面测试",
+  "time" : {
+    "start" : 1614654591185,
+    "stop" : 1614654603542,
+    "duration" : 12357
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "881fb4e1b6777314",
+  "name" : "点击分享奥云家按钮，显示奥云家分享方式测试",
+  "time" : {
+    "start" : 1614656763449,
+    "stop" : 1614656770835,
+    "duration" : 7386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c10b9632c361a38",
+  "name" : "产品线选择",
+  "time" : {
+    "start" : 1614652011497,
+    "stop" : 1614652020206,
+    "duration" : 8709
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9bb82cf11b78030",
+  "name" : "正确账号密码点击登录测试",
+  "time" : {
+    "start" : 1614654493414,
+    "stop" : 1614654500643,
+    "duration" : 7229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ad4b9f861102b8d",
+  "name" : "点击右上角+按钮测试",
+  "time" : {
+    "start" : 1614652845407,
+    "stop" : 1614652856159,
+    "duration" : 10752
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4ba9dda29a7f4d73",
+  "name" : "页面展示",
+  "time" : {
+    "start" : 1614652243549,
+    "stop" : 1614652245090,
+    "duration" : 1541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2c9c684fa21efaa",
+  "name" : "制冷模式下点击电加热",
+  "time" : {
+    "start" : 1614656900505,
+    "stop" : 1614656906410,
+    "duration" : 5905
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "716cc9354e26e434",
+  "name" : "删除联系人-取消",
+  "time" : {
+    "start" : 1614652610869,
+    "stop" : 1614652622727,
+    "duration" : 11858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41f0bbdf1705a97f",
+  "name" : "字数统计",
+  "time" : {
+    "start" : 1614653616081,
+    "stop" : 1614653624765,
+    "duration" : 8684
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "393566cf3dc1cb12",
+  "name" : "点击确定按钮，账号退出登录测试",
+  "time" : {
+    "start" : 1614656817083,
+    "stop" : 1614656831386,
+    "duration" : 14303
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "897e1a75dcd697aa",
+  "name" : "点击返回键，页面跳转到设备页测试",
+  "time" : {
+    "start" : 1614652880909,
+    "stop" : 1614652886284,
+    "duration" : 5375
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c62c0a450d9c5293",
+  "name" : "进入页面",
+  "time" : {
+    "start" : 1614652229221,
+    "stop" : 1614652243543,
+    "duration" : 14322
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c93dbc16a2f7c4d",
+  "name" : "产品线选项展示",
+  "time" : {
+    "start" : 1614652004333,
+    "stop" : 1614652011492,
+    "duration" : 7159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fcf036f934ac61b",
+  "name" : "添加空调设备失败详情",
+  "time" : {
+    "start" : 1614653240286,
+    "stop" : 1614653245357,
+    "duration" : 5071
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "443bdbb358b9c8e3",
+  "name" : "产品线未填",
+  "time" : {
+    "start" : 1614652054962,
+    "stop" : 1614652060488,
+    "duration" : 5526
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "881620235e71938a",
+  "name" : "房间名称，未输入",
+  "time" : {
+    "start" : 1614655345122,
+    "stop" : 1614655351856,
+    "duration" : 6734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abbcd8a9f2f74ec9",
+  "name" : "点击家庭名称，进入家庭设置页测试",
+  "time" : {
+    "start" : 1614653063411,
+    "stop" : 1614653067175,
+    "duration" : 3764
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f347420e49da8edc",
+  "name" : "点击虚拟体验按钮测试",
+  "time" : {
+    "start" : 1614652782501,
+    "stop" : 1614652788873,
+    "duration" : 6372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1d6be38c4c76b70",
+  "name" : "点击添加设备按钮测试",
+  "time" : {
+    "start" : 1614652812337,
+    "stop" : 1614652822880,
+    "duration" : 10543
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c404983ff03497c",
+  "name" : "输入字母",
+  "time" : {
+    "start" : 1614655371108,
+    "stop" : 1614655378298,
+    "duration" : 7190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6283e318622b0ee6",
+  "name" : "点击数据隐私声明按钮，切换到奥克斯集团隐私政策页面测试",
+  "time" : {
+    "start" : 1614656678724,
+    "stop" : 1614656684963,
+    "duration" : 6239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68ca91d6b726eb82",
+  "name" : "时间触发场景测试",
+  "time" : {
+    "start" : 1614657505228,
+    "stop" : 1614657505228,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "193a3ea1c09f19ae",
+  "name" : "当前日期点击确定测试",
+  "time" : {
+    "start" : 1614655222527,
+    "stop" : 1614655226926,
+    "duration" : 4399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "463744fa1f49e4a",
+  "name" : "确认删除",
+  "time" : {
+    "start" : 1614655472636,
+    "stop" : 1614655478689,
+    "duration" : 6053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61bd456302dc22f1",
+  "name" : "正确手机号，忘记密码并修改密码测试",
+  "time" : {
+    "start" : 1614657505199,
+    "stop" : 1614657505199,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "101769d25b7828c9",
+  "name" : "输入字符",
+  "time" : {
+    "start" : 1614655365115,
+    "stop" : 1614655371102,
+    "duration" : 5987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d0653620131d234",
+  "name" : "通过还没解决问题进入意见反馈测试",
+  "time" : {
+    "start" : 1614653480661,
+    "stop" : 1614653488214,
+    "duration" : 7553
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b1a3fcd9ef6f4f6",
+  "name" : "设备列表页已经配网的空调设备消失详情",
+  "time" : {
+    "start" : 1614653348634,
+    "stop" : 1614653354105,
+    "duration" : 5471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cca7f02a341a2c5",
+  "name" : "账号注销测试",
+  "time" : {
+    "start" : 1614657505206,
+    "stop" : 1614657505207,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42e5113d3c234b29",
+  "name" : "苹果登录成功测试",
+  "time" : {
+    "start" : 1614657505197,
+    "stop" : 1614657505197,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e5753c7b63c9ee",
+  "name" : "设置页UI显示文本测试",
+  "time" : {
+    "start" : 1614656418230,
+    "stop" : 1614656435110,
+    "duration" : 16880
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "558c9cc469ae8e2d",
+  "name" : "给好评测试",
+  "time" : {
+    "start" : 1614657505218,
+    "stop" : 1614657505218,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b47ef4c915bdbdb",
+  "name" : "正确填写保存",
+  "time" : {
+    "start" : 1614652320016,
+    "stop" : 1614652352103,
+    "duration" : 32087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4134fc519683d7d",
+  "name" : "送风模式下点击电加热",
+  "time" : {
+    "start" : 1614657133688,
+    "stop" : 1614657148249,
+    "duration" : 14561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "744a7e437ae6a380",
+  "name" : "送风模式下点击电加热",
+  "time" : {
+    "start" : 1614657166725,
+    "stop" : 1614657180286,
+    "duration" : 13561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "785f72282897bc97",
+  "name" : "错误条码",
+  "time" : {
+    "start" : 1614653948971,
+    "stop" : 1614653954198,
+    "duration" : 5227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f184344c26d4e17b",
+  "name" : "不断新增",
+  "time" : {
+    "start" : 1614655574086,
+    "stop" : 1614655809520,
+    "duration" : 235434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ff36a243d41ef4c",
+  "name" : "默认昵称点击确认按钮测试",
+  "time" : {
+    "start" : 1614654791192,
+    "stop" : 1614654793753,
+    "duration" : 2561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfd1cf4742ffe36",
+  "name" : "再次反馈",
+  "time" : {
+    "start" : 1614653789871,
+    "stop" : 1614653799070,
+    "duration" : 9199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7244153cbc0b22a4",
+  "name" : "输入家庭名称点击清除测试",
+  "time" : {
+    "start" : 1614653036315,
+    "stop" : 1614653045551,
+    "duration" : 9236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10e2332470693039",
+  "name" : "清除手机号",
+  "time" : {
+    "start" : 1614653660394,
+    "stop" : 1614653664156,
+    "duration" : 3762
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2113af47874207ce",
+  "name" : "手机号更换测试",
+  "time" : {
+    "start" : 1614657505213,
+    "stop" : 1614657505213,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c5ed531ad50bfd6",
+  "name" : "自动模式下点击电加热",
+  "time" : {
+    "start" : 1614657262500,
+    "stop" : 1614657274440,
+    "duration" : 11940
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aac11a3e6fb5c47a",
+  "name" : "输入账号密码点击显密测试",
+  "time" : {
+    "start" : 1614654520503,
+    "stop" : 1614654527924,
+    "duration" : 7421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8871de1e0856c15b",
+  "name" : "查看记录(由于有bug该部分内容还未写)",
+  "time" : {
+    "start" : 1614653766639,
+    "stop" : 1614653766640,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0f66dbf57adff5c",
+  "name" : "购买日期选择",
+  "time" : {
+    "start" : 1614652020212,
+    "stop" : 1614652023632,
+    "duration" : 3420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6ff65fa454c6859",
+  "name" : "物流状态选择",
+  "time" : {
+    "start" : 1614652028422,
+    "stop" : 1614652032076,
+    "duration" : 3654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "667b438bf4c8f669",
+  "name" : "QQ登录成功测试",
+  "time" : {
+    "start" : 1614657505193,
+    "stop" : 1614657505193,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e7699adf7b391f8",
+  "name" : "通过不带W的型号查询说明书",
+  "time" : {
+    "start" : 1614653906564,
+    "stop" : 1614653911981,
+    "duration" : 5417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ecf0f6620dbbb86",
+  "name" : "未输入家庭名称点击确认测试",
+  "time" : {
+    "start" : 1614652904333,
+    "stop" : 1614652911071,
+    "duration" : 6738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db63b5eff3d9daaa",
+  "name" : "点击同意隐私声明按钮测试",
+  "time" : {
+    "start" : 1614652663268,
+    "stop" : 1614652684270,
+    "duration" : 21002
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8ed3e84222f24c0e",
+  "name" : "点击返回键，页面跳转到设备页测试",
+  "time" : {
+    "start" : 1614654704937,
+    "stop" : 1614654708260,
+    "duration" : 3323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab57e4e50b99292",
+  "name" : "昵称未空点击取消按钮测试",
+  "time" : {
+    "start" : 1614654816715,
+    "stop" : 1614654824168,
+    "duration" : 7453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "526952b73c8d83d8",
+  "name" : "点击返回按钮测试",
+  "time" : {
+    "start" : 1614656151680,
+    "stop" : 1614656160115,
+    "duration" : 8435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d7ca53791234d4f",
+  "name" : "输入汉字",
+  "time" : {
+    "start" : 1614655351864,
+    "stop" : 1614655358313,
+    "duration" : 6449
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57ddf31466975f46",
+  "name" : "勾选家庭，进入设备列表页测试",
+  "time" : {
+    "start" : 1614653085209,
+    "stop" : 1614653091223,
+    "duration" : 6014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd48c87053c911ba",
+  "name" : "消息免打扰开启和关闭切换测试",
+  "time" : {
+    "start" : 1614656479995,
+    "stop" : 1614656499651,
+    "duration" : 19656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c430f598568b8050",
+  "name" : "未输入家庭名称点击取消测试",
+  "time" : {
+    "start" : 1614652930199,
+    "stop" : 1614652936381,
+    "duration" : 6182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4ff4bb19010ba8b",
+  "name" : "修改房间名称",
+  "time" : {
+    "start" : 1614655410482,
+    "stop" : 1614655417428,
+    "duration" : 6946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cafc601d6101fef",
+  "name" : "帮助项展示",
+  "time" : {
+    "start" : 1614653113571,
+    "stop" : 1614653118997,
+    "duration" : 5426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a656e1c5161fd9dd",
+  "name" : "手机号未填",
+  "time" : {
+    "start" : 1614653686615,
+    "stop" : 1614653706535,
+    "duration" : 19920
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eae522d1e8f8e75",
+  "name" : "默认姓名点击取消按钮测试",
+  "time" : {
+    "start" : 1614654962959,
+    "stop" : 1614654966351,
+    "duration" : 3392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc85e1b088d6700",
+  "name" : "预约日期选择",
+  "time" : {
+    "start" : 1614652032079,
+    "stop" : 1614652034493,
+    "duration" : 2414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ab5474150ac8681",
+  "name" : "送风模式下点击舒风",
+  "time" : {
+    "start" : 1614657103193,
+    "stop" : 1614657115101,
+    "duration" : 11908
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ad289a6d9af7034",
+  "name" : "点击确定按钮测试",
+  "time" : {
+    "start" : 1614656235277,
+    "stop" : 1614656242139,
+    "duration" : 6862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba156cae7ead0863",
+  "name" : "关机状态下点击定时功能",
+  "time" : {
+    "start" : 1614657398044,
+    "stop" : 1614657407332,
+    "duration" : 9288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf5ceade62524150",
+  "name" : "送风模式下点击ECO",
+  "time" : {
+    "start" : 1614657069696,
+    "stop" : 1614657084711,
+    "duration" : 15015
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "875e73efc47774b2",
+  "name" : "开机状态下点击定时功能",
+  "time" : {
+    "start" : 1614657340788,
+    "stop" : 1614657350077,
+    "duration" : 9289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3e03dcf6808f4e1",
+  "name" : "进入页面",
+  "time" : {
+    "start" : 1614651920319,
+    "stop" : 1614651920319,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bd230551ad7d89b3",
+  "name" : "点击用户协议测试",
+  "time" : {
+    "start" : 1614654621753,
+    "stop" : 1614654626193,
+    "duration" : 4440
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "570092b5ba186128",
+  "name" : "除湿模式下点击舒风",
+  "time" : {
+    "start" : 1614657012860,
+    "stop" : 1614657022360,
+    "duration" : 9500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b97e4fee7ca8563",
+  "name" : "未输入账号密码点击显密测试",
+  "time" : {
+    "start" : 1614654547874,
+    "stop" : 1614654549755,
+    "duration" : 1881
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea8836c37fc277d1",
+  "name" : "不可点状态：内容未输入",
+  "time" : {
+    "start" : 1614653583021,
+    "stop" : 1614653589325,
+    "duration" : 6304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72f4fabbc1957a9b",
+  "name" : "添加空调设备详情",
+  "time" : {
+    "start" : 1614653232540,
+    "stop" : 1614653240278,
+    "duration" : 7738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df0ba1a1a6c01c7e",
+  "name" : "第三方账号登录详情",
+  "time" : {
+    "start" : 1614653191851,
+    "stop" : 1614653197297,
+    "duration" : 5446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd6af9699518ebc1",
+  "name" : "正确提交",
+  "time" : {
+    "start" : 1614652131759,
+    "stop" : 1614652131759,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d7488aead2c5b445",
+  "name" : "点击性别女按钮测试",
+  "time" : {
+    "start" : 1614655193294,
+    "stop" : 1614655199680,
+    "duration" : 6386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ac03881339e7de3",
+  "name" : "点击返回按钮，跳转至我的页面测试",
+  "time" : {
+    "start" : 1614655316786,
+    "stop" : 1614655319783,
+    "duration" : 2997
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc89ddb359f6161d",
+  "name" : "未勾选同意，验证码错误点击注册失败测试",
+  "time" : {
+    "start" : 1614654667064,
+    "stop" : 1614654681164,
+    "duration" : 14100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a2162b495e297a5",
+  "name" : "第三方平台绑定测试",
+  "time" : {
+    "start" : 1614657505215,
+    "stop" : 1614657505215,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21e4e607f3e4dd70",
+  "name" : "除湿模式下点击电加热",
+  "time" : {
+    "start" : 1614657040797,
+    "stop" : 1614657050640,
+    "duration" : 9843
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0d9bc83c0d64674",
+  "name" : "输入超过20位汉字",
+  "time" : {
+    "start" : 1614655358321,
+    "stop" : 1614655365106,
+    "duration" : 6785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bf1c2e68de6d570",
+  "name" : "开机状态下点击睡眠diy功能",
+  "time" : {
+    "start" : 1614657292920,
+    "stop" : 1614657321420,
+    "duration" : 28500
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cd0f9d03597ce481",
+  "name" : "1-20位姓名点击确认按钮测试",
+  "time" : {
+    "start" : 1614655105941,
+    "stop" : 1614655113979,
+    "duration" : 8038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99d9dc577de119ef",
+  "name" : "点击取消按钮，关闭去评价弹框测试",
+  "time" : {
+    "start" : 1614656618542,
+    "stop" : 1614656624378,
+    "duration" : 5836
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b958549d46c094c",
+  "name" : "关机状态下点击设备运行日志功能",
+  "time" : {
+    "start" : 1614657425858,
+    "stop" : 1614657435344,
+    "duration" : 9486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "736b0f4a0d0e289e",
+  "name" : "场景模式展示",
+  "time" : {
+    "start" : 1614653144485,
+    "stop" : 1614653147689,
+    "duration" : 3204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14bbb4e49d98512b",
+  "name" : "购买日期未选择",
+  "time" : {
+    "start" : 1614652116006,
+    "stop" : 1614652130423,
+    "duration" : 14417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c316126af4730e7",
+  "name" : "账号登录详情",
+  "time" : {
+    "start" : 1614653181744,
+    "stop" : 1614653187383,
+    "duration" : 5639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d12ae2df7c3e0277",
+  "name" : "设备控制页显示发生故障详情",
+  "time" : {
+    "start" : 1614653354111,
+    "stop" : 1614653359914,
+    "duration" : 5803
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8d6d50cca491001",
+  "name" : "点击用户协议测试",
+  "time" : {
+    "start" : 1614654384056,
+    "stop" : 1614654387698,
+    "duration" : 3642
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54c55a7e857fe9cc",
+  "name" : "输入手机号时点击清除按钮测试",
+  "time" : {
+    "start" : 1614654357864,
+    "stop" : 1614654364128,
+    "duration" : 6264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb923c306db5a163",
+  "name" : "进入工单查询页面",
+  "time" : {
+    "start" : 1614651951381,
+    "stop" : 1614651951381,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "564d6ef751d08c45",
+  "name" : "跳转到拆洗教程页",
+  "time" : {
+    "start" : 1614653835487,
+    "stop" : 1614653840791,
+    "duration" : 5304
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e4384b9e124f6728",
+  "name" : "设备添加展示",
+  "time" : {
+    "start" : 1614653127926,
+    "stop" : 1614653132075,
+    "duration" : 4149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ed849880218d885",
+  "name" : "通过带W的型号查询说明书",
+  "time" : {
+    "start" : 1614653862400,
+    "stop" : 1614653869170,
+    "duration" : 6770
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6b507a68927942b",
+  "name" : "点击选择设备按钮测试",
+  "time" : {
+    "start" : 1614656207560,
+    "stop" : 1614656214801,
+    "duration" : 7241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2f5c16449231c5d",
+  "name" : "空调设备电量功能异常详情",
+  "time" : {
+    "start" : 1614653330159,
+    "stop" : 1614653338321,
+    "duration" : 8162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a268b068c008725",
+  "name" : "内容过长未填",
+  "time" : {
+    "start" : 1614653730922,
+    "stop" : 1614653744584,
+    "duration" : 13662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49712cbeb6602240",
+  "name" : "昵称未空点击确认按钮测试",
+  "time" : {
+    "start" : 1614654847300,
+    "stop" : 1614654853205,
+    "duration" : 5905
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79744809c19b28a2",
+  "name" : "空调设备删除详情",
+  "time" : {
+    "start" : 1614653281502,
+    "stop" : 1614653286760,
+    "duration" : 5258
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ffce6a4a1dda984",
+  "name" : "跳转到电子说明书页",
+  "time" : {
+    "start" : 1614653823285,
+    "stop" : 1614653825471,
+    "duration" : 2186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "809d4134fd5617e0",
+  "name" : "错误账号密码点击登录测试",
+  "time" : {
+    "start" : 1614654464679,
+    "stop" : 1614654473478,
+    "duration" : 8799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dcc31dd5ae66c83",
+  "name" : "确认删除",
+  "time" : {
+    "start" : 1614654055869,
+    "stop" : 1614654058366,
+    "duration" : 2497
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e447acde367ba4",
+  "name" : "查询是否有历史记录，如无，则新生成一条",
+  "time" : {
+    "start" : 1614654043058,
+    "stop" : 1614654050733,
+    "duration" : 7675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fedd7043edb63857",
+  "name" : "不断删除房间直至全部删除",
+  "time" : {
+    "start" : 1614655834337,
+    "stop" : 1614656051597,
+    "duration" : 217260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c15bbdaddd9d761",
+  "name" : "功能异常展示",
+  "time" : {
+    "start" : 1614653137141,
+    "stop" : 1614653144478,
+    "duration" : 7337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ec0af6f460344cd",
+  "name" : "点击返回键，页面跳转到设备页测试",
+  "time" : {
+    "start" : 1614654569003,
+    "stop" : 1614654572740,
+    "duration" : 3737
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf69c3918b28c38d",
+  "name" : "姓名为空点击取消按钮测试",
+  "time" : {
+    "start" : 1614655017276,
+    "stop" : 1614655024943,
+    "duration" : 7667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebcd5f1be52c649b",
+  "name" : "查看电子说明书",
+  "time" : {
+    "start" : 1614653869176,
+    "stop" : 1614653885308,
+    "duration" : 16132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73156b0a3ec4fab7",
+  "name" : "显示的控制功能与空调型号不对应详情",
+  "time" : {
+    "start" : 1614653343789,
+    "stop" : 1614653348627,
+    "duration" : 4838
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46bf60568acaa8b0",
+  "name" : "空调设备离线详情",
+  "time" : {
+    "start" : 1614653426130,
+    "stop" : 1614653431405,
+    "duration" : 5275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcc8f9850178de5e",
+  "name" : "修改空调设备名称详情",
+  "time" : {
+    "start" : 1614653273347,
+    "stop" : 1614653281500,
+    "duration" : 8153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce6d3f75abea388b",
+  "name" : "列表显示",
+  "time" : {
+    "start" : 1614653820269,
+    "stop" : 1614653823282,
+    "duration" : 3013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebdc8c614192ddd",
+  "name" : "账号安全UI显示文本测试",
+  "time" : {
+    "start" : 1614656454973,
+    "stop" : 1614656460764,
+    "duration" : 5791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aee63e64a875aa2f",
+  "name" : "点击继续添加设备按钮测试",
+  "time" : {
+    "start" : 1614656180303,
+    "stop" : 1614656188034,
+    "duration" : 7731
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f7df260ce4773eb",
+  "name" : "1-20位家庭名称点击取消测试",
+  "time" : {
+    "start" : 1614652983492,
+    "stop" : 1614652992414,
+    "duration" : 8922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76d2c73703acef66",
+  "name" : "姓名为空点击确认按钮测试",
+  "time" : {
+    "start" : 1614655048716,
+    "stop" : 1614655054140,
+    "duration" : 5424
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b1d01e77af27ba0",
+  "name" : "手机号非纯数字",
+  "time" : {
+    "start" : 1614652372968,
+    "stop" : 1614652402021,
+    "duration" : 29053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddcb44192468473b",
+  "name" : "默认昵称点击取消按钮测试",
+  "time" : {
+    "start" : 1614654764091,
+    "stop" : 1614654767559,
+    "duration" : 3468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fad0b0a6631a8d35",
+  "name" : "如何分享设备详情",
+  "time" : {
+    "start" : 1614653301121,
+    "stop" : 1614653306205,
+    "duration" : 5084
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "168f29599e74c476",
+  "name" : "页面显示",
+  "time" : {
+    "start" : 1614653510703,
+    "stop" : 1614653517482,
+    "duration" : 6779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff03de86f699f2d7",
+  "name" : "空调设备复位不成功详情",
+  "time" : {
+    "start" : 1614653245363,
+    "stop" : 1614653251001,
+    "duration" : 5638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40f822026ecef6d6",
+  "name" : "点击服务热线按钮，切换到手机号拨打页面测试",
+  "time" : {
+    "start" : 1614656736941,
+    "stop" : 1614656743225,
+    "duration" : 6284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a43d6dc8b3b2af9a",
+  "name" : "历遍所有问题类型",
+  "time" : {
+    "start" : 1614653539528,
+    "stop" : 1614653560347,
+    "duration" : 20819
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22d9df5dda842e33",
+  "name" : "可点状态：内容已填写",
+  "time" : {
+    "start" : 1614653589332,
+    "stop" : 1614653593507,
+    "duration" : 4175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64d8379f796b7634",
+  "name" : "输入超20位姓名测试",
+  "time" : {
+    "start" : 1614655137630,
+    "stop" : 1614655141351,
+    "duration" : 3721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e321be20b3004aa",
+  "name" : "微信登录成功测试",
+  "time" : {
+    "start" : 1614657505195,
+    "stop" : 1614657505195,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32b726f5f74f88e0",
+  "name" : "自动模式下点击舒风",
+  "time" : {
+    "start" : 1614657229948,
+    "stop" : 1614657243612,
+    "duration" : 13664
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c10ab1794d92760",
+  "name" : "查看电子说明书",
+  "time" : {
+    "start" : 1614653911984,
+    "stop" : 1614653927603,
+    "duration" : 15619
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "889149059c24feaf",
+  "name" : "扫码查询",
+  "time" : {
+    "start" : 1614653976052,
+    "stop" : 1614653985281,
+    "duration" : 9229
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2eaf83051139e859",
+  "name" : "位置触发场景测试",
+  "time" : {
+    "start" : 1614657505225,
+    "stop" : 1614657505225,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f64dc43c91aa2fcf",
+  "name" : "验证码正确点击注册成功测试",
+  "time" : {
+    "start" : 1614657505188,
+    "stop" : 1614657505188,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5715c641f16c4d25",
+  "name" : "点击场景控制快捷入口按钮测试",
+  "time" : {
+    "start" : 1614652749080,
+    "stop" : 1614652759585,
+    "duration" : 10505
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2024d6a46905a830",
+  "name" : "点击手动触发按钮测试",
+  "time" : {
+    "start" : 1614656365205,
+    "stop" : 1614656369861,
+    "duration" : 4656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cccc4fb3ea7e44c",
+  "name" : "从相册或拍照方式修改头像测试",
+  "time" : {
+    "start" : 1614657505201,
+    "stop" : 1614657505201,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f04b29c3faa96b7",
+  "name" : "默认姓名点击确认按钮测试",
+  "time" : {
+    "start" : 1614654989965,
+    "stop" : 1614654993411,
+    "duration" : 3446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e567a37ccc06f99",
+  "name" : "物流状态选项展示",
+  "time" : {
+    "start" : 1614652023636,
+    "stop" : 1614652028415,
+    "duration" : 4779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61c1fa56fe0a2ffd",
+  "name" : "自动模式下点击ECO",
+  "time" : {
+    "start" : 1614657199144,
+    "stop" : 1614657211355,
+    "duration" : 12211
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f70d564952c4518b",
+  "name" : "点击取消按钮，关闭退出登录弹框测试",
+  "time" : {
+    "start" : 1614656790421,
+    "stop" : 1614656796922,
+    "duration" : 6501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a725a07d8b9df9c",
+  "name" : "添加设备",
+  "time" : {
+    "start" : 1614655540907,
+    "stop" : 1614655548814,
+    "duration" : 7907
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7684d35decd1bb0",
+  "name" : "点击验证码登录按钮，切换到验证码登录页面测试",
+  "time" : {
+    "start" : 1614654275936,
+    "stop" : 1614654288010,
+    "duration" : 12074
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1d1cf06397a83b7d",
+  "name" : "点击性别男按钮测试",
+  "time" : {
+    "start" : 1614655164712,
+    "stop" : 1614655169920,
+    "duration" : 5208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3909606302861a3",
+  "name" : "修改头像点击取消按钮测试",
+  "time" : {
+    "start" : 1614654709757,
+    "stop" : 1614654709757,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6097f81e3c4d7f2a",
+  "name" : "点击手动触发按钮测试",
+  "time" : {
+    "start" : 1614656340100,
+    "stop" : 1614656345159,
+    "duration" : 5059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6237914f8dfdd28",
+  "name" : "设置定时不执行详情",
+  "time" : {
+    "start" : 1614653338326,
+    "stop" : 1614653343781,
+    "duration" : 5455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "629a09e83efe5e43",
+  "name" : "制冷模式下点击舒风",
+  "time" : {
+    "start" : 1614656876414,
+    "stop" : 1614656881522,
+    "duration" : 5108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "550552c82d1e7956",
+  "name" : "点击隐私政策测试",
+  "time" : {
+    "start" : 1614654644704,
+    "stop" : 1614654648862,
+    "duration" : 4158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a79e4e07700818e",
+  "name" : "联系人字数过长",
+  "time" : {
+    "start" : 1614652472996,
+    "stop" : 1614652503938,
+    "duration" : 30942
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9d951fd60731de0",
+  "name" : "当前日期点击取消测试",
+  "time" : {
+    "start" : 1614655249922,
+    "stop" : 1614655253507,
+    "duration" : 3585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,114 @@
+{
+  "total" : 18,
+  "items" : [ {
+    "uid" : "8194aa99144706b78a59a00b33ed2da8",
+    "name" : "设置页",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "3dca69b38dfbc4e8d434962b0b8d83fd",
+    "name" : "设备列表页",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ee6695e13821bd39917831a928cb1a49",
+    "name" : "个人资料页",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "6f35f034b7fa676df0c3ef1e8b6b1c59",
+    "name" : "帮助与反馈",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "45fbc38831011f6ad097b5cb6800bb4d",
+    "name" : "家庭列表页",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "778f561dc9f50c23aa3c71550eb23969",
+    "name" : "产品指南",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "4f375b428d93f41db1ee97e98ea5062f",
+    "name" : "电子说明书",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "40b697aa73eec2bd3044fff972ae23bf",
+    "name" : "售后服务",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "be88c53ab35a0364f1defd051b4d7555",
+    "name" : "引导页",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "c025b94f7bdcf4101aea10d8f12de44b",
+    "name" : "登录页",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

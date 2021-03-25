@@ -1,0 +1,4 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:10:50]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:11:13]11位手机号获取验证码pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:11:18]输入验证码注册pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:11:21]未勾选同意隐私政策pass

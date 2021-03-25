@@ -1,0 +1,8 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:20]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:38]同意隐私声明pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:38]-------开始引导页测试-------
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:42]-------启动页第一页文字显示正确-------
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:46]-------启动页第二页文字显示正确-------
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:48]-------启动页第三页文字显示正确-------
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:48]-------结束引导页测试-------
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:15:59]未找到Message: An element could not be located on the page using the given search parameters.

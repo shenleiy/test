@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:54:05]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:54:29]切换成自动模式pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:54:34]非制热模式下点击电加热pass

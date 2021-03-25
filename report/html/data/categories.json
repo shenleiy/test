@@ -1,0 +1,381 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "children" : [ {
+        "name" : "进入页面",
+        "uid" : "f3e03dcf6808f4e1",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614651920319,
+          "stop" : 1614651920319,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "进入报装页面",
+        "uid" : "e987d2fc27d202a4",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614651951281,
+          "stop" : 1614651951281,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "进入报修页面",
+        "uid" : "cbc7f2ac6bc67cf9",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614651951323,
+          "stop" : 1614651951323,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "进入工单查询页面",
+        "uid" : "eb923c306db5a163",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614651951381,
+          "stop" : 1614651951381,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "进入服务声明页面",
+        "uid" : "69883c06dcfc2fe3",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614651951426,
+          "stop" : 1614651951426,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击同意隐私声明按钮测试",
+        "uid" : "db63b5eff3d9daaa",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614652663268,
+          "stop" : 1614652684270,
+          "duration" : 21002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击未登录按钮测试",
+        "uid" : "c6e5c7068a6257eb",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614652685671,
+          "stop" : 1614652685671,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击场景控制快捷入口按钮测试",
+        "uid" : "5715c641f16c4d25",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614652749080,
+          "stop" : 1614652759585,
+          "duration" : 10505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击添加设备按钮测试",
+        "uid" : "b1d6be38c4c76b70",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614652812337,
+          "stop" : 1614652822880,
+          "duration" : 10543
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击右上角+按钮测试",
+        "uid" : "1ad4b9f861102b8d",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614652845407,
+          "stop" : 1614652856159,
+          "duration" : 10752
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击返回键，页面跳转到设备页测试",
+        "uid" : "897e1a75dcd697aa",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614652880909,
+          "stop" : 1614652886284,
+          "duration" : 5375
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "如何设置睡眠DIY详情",
+        "uid" : "691ce9eb597e4683",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614653286766,
+          "stop" : 1614653301060,
+          "duration" : 14294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "如何分享设备详情",
+        "uid" : "fad0b0a6631a8d35",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614653301121,
+          "stop" : 1614653306205,
+          "duration" : 5084
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "跳转到产品使用指南页",
+        "uid" : "18149070e882af48",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614653825474,
+          "stop" : 1614653835433,
+          "duration" : 9959
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "跳转到拆洗教程页",
+        "uid" : "564d6ef751d08c45",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614653835487,
+          "stop" : 1614653840791,
+          "duration" : 5304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "扫码查询",
+        "uid" : "889149059c24feaf",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614653976052,
+          "stop" : 1614653985281,
+          "duration" : 9229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击验证码登录按钮，切换到验证码登录页面测试",
+        "uid" : "f7684d35decd1bb0",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614654275936,
+          "stop" : 1614654288010,
+          "duration" : 12074
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击密码登录按钮，切换到密码登录页面测试",
+        "uid" : "dfc1aecedf2262d1",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614654591185,
+          "stop" : 1614654603542,
+          "duration" : 12357
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "修改头像点击取消按钮测试",
+        "uid" : "3909606302861a3",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614654709757,
+          "stop" : 1614654709757,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "设置页UI显示文本测试",
+        "uid" : "9e5753c7b63c9ee",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614656418230,
+          "stop" : 1614656435110,
+          "duration" : 16880
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "关于奥云家UI显示文本测试",
+        "uid" : "2b29a011886d1971",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614656643496,
+          "stop" : 1614656658652,
+          "duration" : 15156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "点击确定按钮，账号退出登录测试",
+        "uid" : "393566cf3dc1cb12",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614656817083,
+          "stop" : 1614656831386,
+          "duration" : 14303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "制热模式下点击ECO",
+        "uid" : "473740ff6cd14021",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614656925050,
+          "stop" : 1614656935966,
+          "duration" : 10916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "除湿模式下点击ECO",
+        "uid" : "abb7a946fef11f57",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614656983120,
+          "stop" : 1614656994317,
+          "duration" : 11197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "送风模式下点击ECO",
+        "uid" : "bf5ceade62524150",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614657069696,
+          "stop" : 1614657084711,
+          "duration" : 15015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "自动模式下点击ECO",
+        "uid" : "61c1fa56fe0a2ffd",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614657199144,
+          "stop" : 1614657211355,
+          "duration" : 12211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "开启童锁后随即点击任意按钮",
+        "uid" : "988018887f221dcf",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614657454576,
+          "stop" : 1614657503716,
+          "duration" : 49140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a823ebd65a5f17ad39e628108c6e522"
+    }, {
+      "name" : "selenium.common.exceptions.TimeoutException: Message:",
+      "children" : [ {
+        "name" : "开机状态下点击睡眠diy功能",
+        "uid" : "1bf1c2e68de6d570",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1614657292920,
+          "stop" : 1614657321420,
+          "duration" : 28500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31bb78a6a95ede3f78b260ed048910d8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:00:16]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:00:38]个人资料页文本显示pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:00:44]点击性别男按钮pass

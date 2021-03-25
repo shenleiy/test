@@ -1,0 +1,4 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:38:33]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:39:04]-------开始设备列表页面（未登陆状态）文字测试-------
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:39:09]-------结束设备列表页面（未登陆状态）文字测试-------
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:39:19]未找到Message: An element could not be located on the page using the given search parameters.

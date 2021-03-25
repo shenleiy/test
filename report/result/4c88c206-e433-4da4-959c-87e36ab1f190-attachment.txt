@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:18:26]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:18:50]点击离家(手动)pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:18:54]返回至场景推荐页pass

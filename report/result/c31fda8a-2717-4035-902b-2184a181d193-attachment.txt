@@ -1,0 +1,4 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:51:38]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:52:02]11位手机号获取验证码pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:52:13]输入验证码注册pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:52:24]未找到Message:

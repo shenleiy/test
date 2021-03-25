@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:32:43]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:33:11]切换成送风模式pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:33:15]送风模式下点击睡眠pass

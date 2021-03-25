@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:06:53]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:07:14]勾选同意隐私政策pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:07:19]正确账号密码登录pass

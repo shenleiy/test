@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:21:35]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:21:56]个人资料页文本显示pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:21:59]返回按钮pass

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:33:45]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:34:11]进入意见反馈页面pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 15:34:15]反馈内容字数统计pass

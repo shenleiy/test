@@ -1,0 +1,20 @@
+platformName: Android
+#模拟器
+#platformVersion: 5.1.1
+#deviceName: 127.0.0.1:62025
+
+#mx4真机
+platformVersion: 9
+#udid: 750BBKL22GDN
+deviceName: 736a2c56̉
+
+appname: kaoyan3.1.0.apk
+
+appPackage: com.broadlink.auxair
+appActivity: com.auxgroup.smarthome.activity.appstart.SplashActivity
+
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+ip: 127.0.0.1
+port: 4723

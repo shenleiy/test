@@ -1,0 +1,4 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:30:46]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:31:23]提交按钮不可点状态pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:31:27]提交按钮不可点状态pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 10:31:38]提交按钮不可点状态pass

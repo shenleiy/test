@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:17:01]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:17:25]点击离家(手动)pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:17:27]无设备状态-点击继续添加设备pass

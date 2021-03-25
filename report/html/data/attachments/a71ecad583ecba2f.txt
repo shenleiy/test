@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:56:48]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:57:11]点击关机按钮pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:57:15]点击设备运行日志按钮pass

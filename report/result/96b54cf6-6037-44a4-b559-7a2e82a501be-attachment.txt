@@ -1,0 +1,2 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:06:07]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 16:06:32]进入页面pass

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:53:01]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:53:26]切换成自动模式pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:53:31]未找到Message: An element could not be located on the page using the given search parameters.

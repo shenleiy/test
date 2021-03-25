@@ -1,0 +1,3 @@
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:25:50]start app...
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:26:14]进入页面pass
+[32mINFO    [0m root:log.py:78 [INFO 2021-03-02 11:30:09]添加房间直至最多pass
