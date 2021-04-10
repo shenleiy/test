@@ -1,0 +1,8 @@
+path:\\auxgroup.com\SysVol\auxgroup.com\Policies\{85B86A5A-0CB5-4347-AFE4-F6F0EA7FF36C}\User\Scripts\Logoff\sinforIP
+DNS:	10.77.20.251
+g_vecDomainAC empty, can't find match ac ip, dns=10.77.20.251
+DNS:	10.77.20.252
+g_vecDomainAC empty, can't find match ac ip, dns=10.77.20.251
+g_vecDomainAC empty
+
+ERR: command-params format: logff.exe [ac-ip], ERR_NO: 244 
